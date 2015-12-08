@@ -1,0 +1,4 @@
+theme            = "cnl"
+baseurl          = "http://cnl-naturopathie.ch/"
+languageCode     = "fr-fr"
+title            = "CNL-Naturopathie"
