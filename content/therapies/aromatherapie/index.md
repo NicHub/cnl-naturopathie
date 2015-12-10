@@ -4,7 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
-<img class="size-full wp-image-347 alignright" alt="apothecary" src="apothecary.jpg" width="300" height="245" />La salle de réception d’une pharmacie. Pendant de nombreuses années, les pharmaciens d’Europe ont analysé et enregistré les propriétés médicinales de beaucoup de nouvelles huiles essentielles.
+<img class="size-full wp-image-347 alignright" alt="apothecary" src="./images/apothecary.jpg" width="300" height="245" />La salle de réception d’une pharmacie. Pendant de nombreuses années, les pharmaciens d’Europe ont analysé et enregistré les propriétés médicinales de beaucoup de nouvelles huiles essentielles.
 
 L’aromathérapie est un domaine spécial de la phytothérapie (traitement par les plantes) qui se sert des substances aromatiques végétales, appelées huiles essentielles, dans un but médicinal.
 

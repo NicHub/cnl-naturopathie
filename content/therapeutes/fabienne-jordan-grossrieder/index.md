@@ -1,9 +1,10 @@
 ---
-title: Découvrez le CNL
+title: Fabienne Jordan-Grossrieder
 author: nico
 layout: page
 date: 2013-12-14
 ---
+
 **Fabienne Jordan-Grossrieder a le plaisir de vous accueillir sur le site du Centre de Naturopathie Lausanne**
 <img class="alignright size-full wp-image-298" alt="Photo_Fabienne" src="./images/Photo_Fabienne_02.jpg" width="137" height="169" />Vous y découvrirez des solutions naturelles pour maintenir, améliorer ou recouvrer votre santé.
 Fabienne Jordan-Grossrieder, naturopathe et nutritionniste diplômée, pratique depuis 1993 les médecines complémentaires et exerce comme indépendante depuis 1999. Son expérience et les formations continues qu’elle suit régulièrement lui permettent d’avoir une palette d’outils qu’elle peut utiliser en fonction des besoins de chacun et dans des domaines aussi vastes que les troubles digestifs, les allergies, les maux de dos, les migraines, les maladies chroniques, etc. Elle donne également régulièrement des conférences sur la prévention des maladies hivernales et les problèmes féminins.
