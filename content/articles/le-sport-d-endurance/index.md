@@ -16,13 +16,13 @@ Le Dr Denis Riché, auteur de plusieurs livres et de recherches sur le sport, d�
 
 L’alimentation permettra de rééquilibrer les fonctions physiologiques. À noter que les intestins sont souvent le maillon faible du sportif. De récents travaux suggèrent que le sport d’endurance, même effectué à une intensité modérée peut accroître le catabolisme protéique. Un apport de 2 g d’acides aminés branchés (valine, leucine, isoleucine) supprime cet effet. Si un apport de glucides se fait simultanément, ces acides aminés seront mieux épargnés.
 
-## Conseils diététiques :
+## Conseils diététiques :
 
-  * Entraînement : 500 ml/h de boisson glucidique avec des acides aminés branchés. Ces boissons évitent également la déshydratation, l’hypoglycémie et les crampes.
-  * En pré-compétition : J-3 au dernier repas, l’idéal est l’apport de produits céréaliers non complets « sans résidus » ou pomme de terre. Dernier repas « sans résidus » minimum 3 h avant l’épreuve.
-  * Compétition : Les boissons de l’effort doivent contenir des glucides et des acides aminés branchés, 500 ml/h (voire plus si contraintes thermiques) durant l’effort, accompagné de barres pour le sport d’endurance.
-  * Après l’effort : boisson « salée » comme la *St-Yorre* ou la *Vichy Celestins* pour compenser une partie des pertes minérales et l’acidité ainsi que des boissons hypotoniques contenant des glucides et des acides aminés. Fruits secs ou barres glucidiques. Pour le repas du soir, aliments peu acidifiants comme les légumes racines (pommes de terre, raves, carottes…), verts et orangés et poissons bleus.
-  * Le lendemain : petit déjeuner riche en fruits et protéines (œufs, viande séchée, poulet…). Apport d’oléagineux et fruits secs, sources d’acides gras polyinsaturés et de magnésium. À midi, réintroduction de la viande avec légumes verts et pomme de terre.
+  * Entraînement : 500 ml/h de boisson glucidique avec des acides aminés branchés. Ces boissons évitent également la déshydratation, l’hypoglycémie et les crampes.
+  * En pré-compétition : J-3 au dernier repas, l’idéal est l’apport de produits céréaliers non complets « sans résidus » ou pomme de terre. Dernier repas « sans résidus » minimum 3 h avant l’épreuve.
+  * Compétition : Les boissons de l’effort doivent contenir des glucides et des acides aminés branchés, 500 ml/h (voire plus si contraintes thermiques) durant l’effort, accompagné de barres pour le sport d’endurance.
+  * Après l’effort : boisson « salée » comme la *St-Yorre* ou la *Vichy Celestins* pour compenser une partie des pertes minérales et l’acidité ainsi que des boissons hypotoniques contenant des glucides et des acides aminés. Fruits secs ou barres glucidiques. Pour le repas du soir, aliments peu acidifiants comme les légumes racines (pommes de terre, raves, carottes…), verts et orangés et poissons bleus.
+  * Le lendemain : petit déjeuner riche en fruits et protéines (œufs, viande séchée, poulet…). Apport d’oléagineux et fruits secs, sources d’acides gras polyinsaturés et de magnésium. À midi, réintroduction de la viande avec légumes verts et pomme de terre.
 
 &nbsp;
 
@@ -35,7 +35,7 @@ Pour plusieurs de ces besoins, il existe des complexes dans différentes marques
   * Les cofacteurs enzymatiques, orotate de magnésium, zinc, B1, B6, Q10 (100 mg).
   * Des antioxydants, Se-Zn-Mn-Cu, vit E (400 UI), vit C (500 mg).
   * Probiotiques pour les intestins.
-  * *Burgerstein* : probase 1 cc au coucher, neutralise l’acidité tissulaire.
+  * *Burgerstein* : probase 1 cc au coucher, neutralise l’acidité tissulaire.
 
 ##  Conseils
 

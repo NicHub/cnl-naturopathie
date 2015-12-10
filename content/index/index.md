@@ -25,7 +25,7 @@ url: /
 
 &nbsp;
 
-Lisez notre <a href="/prevention-hiver/">article de prévention.</a>
+Lisez notre <a href="/articles/prevention-hiver/">article de prévention.</a>
 
 
 
@@ -34,7 +34,7 @@ Lisez notre <a href="/prevention-hiver/">article de prévention.</a>
 </p>
 
 <p>
-<b><a href="./decouvrez-le-cnl/">Fabienne Jordan-Grossrieder</a></b><br/>
+<b><a href="/therapeutes/fabienne-jordan-grossrieder/">Fabienne Jordan-Grossrieder</a></b><br/>
 <b>Naturopathe Nutritionniste</b><br/>
 <b>Tél / Fax : +41 21 601 35 82</b>
 </p>
@@ -42,7 +42,7 @@ Lisez notre <a href="/prevention-hiver/">article de prévention.</a>
 <p><b>~</b></p>
 
 <p>
-<b><a href="./martine-bergamin/">Martine Bergamin</a></b><br/>
+<b><a href="/therapeutes/martine-bergamin/">Martine Bergamin</a></b><br/>
 <b>Thérapies de l’Âme — Transmission des paroles de l’Ange</b><br/>
 <b>Tél : +41 79 107 54 49</b>
 </p>
@@ -50,7 +50,7 @@ Lisez notre <a href="/prevention-hiver/">article de prévention.</a>
 <p><b>~</b></p>
 
 <p>
-<b><a href="./philippe-gamondes/">Philippe Gamondès</a></b><br/>
+<b><a href="/therapeutes/philippe-gamondes/">Philippe Gamondès</a></b><br/>
 <b>Nutritionniste, Médecine chinoise</b><br/>
 <b>Tél : +41 79 943 82 11</b>
 </p>

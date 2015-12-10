@@ -68,7 +68,7 @@ Fessier : 102 - 7 = 91 cm</td>
 <tbody>
 <tr>
 <td><img class="aligncenter size-full wp-image-329" alt="cas2_1" src="images/cas2_1.jpg" width="170" height="250" /></td>
-<td><a href="/wp-content/uploads_bkp/2013/01/cas2_2.jpg"><img class="aligncenter size-full wp-image-330" alt="cas2_2" src="images/cas2_2.jpg" width="170" height="250" /></a></td>
+<td><a href="./images/cas2_2.jpg"><img class="aligncenter size-full wp-image-330" alt="cas2_2" src="images/cas2_2.jpg" width="170" height="250" /></a></td>
 <td>
 <h4>Descriptif</h4>
 <p>Femme 34 ans<br />

@@ -13,7 +13,7 @@ date: 2013-12-14
 La prévention des maux hivernaux se fait d’une manière globale. D’abord par une prise en charge de soi-même surtout, puis par la prise de remèdes.
 Le but est de maintenir un bon niveau d’énergie, soit ne pas tomber dans des états de fatigue chronique, de surmenage, de sédentarité et préserver nos défenses immunitaires.
 
-Tout stress va affaiblir notre système immunitaire. En hiver, le froid ainsi que le manque de lumière viennent s’ajouter aux autres stress du quotidien que sont la suractivité, le manque de sommeil, une mauvaise alimentation, l’excès de produits stimulants (café, caféine, sucre&#8230;) ainsi que « le trop » et « le pas du tout » de sport.
+Tout stress va affaiblir notre système immunitaire. En hiver, le froid ainsi que le manque de lumière viennent s’ajouter aux autres stress du quotidien que sont la suractivité, le manque de sommeil, une mauvaise alimentation, l’excès de produits stimulants (café, caféine, sucre...) ainsi que « le trop » et « le pas du tout » de sport.
 
 Ces quelques conseils vous sembleront certainement logiques, mais nous n’avons pas toujours le réflexe de les appliquer en prévention. Plus une personne est fragile, plus elle doit être attentive à son hygiène de vie. Ces conseils sont de la prévention et ne remplacent pas un traitement en cas de maladie. Il s’agit de :
 
@@ -238,4 +238,4 @@ Ces quelques conseils vous sembleront certainement logiques, mais nous n’avons
 </tbody>
 </table>
 
-<p style="margin-top: 3em;">Pour les personnes sensibles au manque de lumière, le coup de blues hivernal, la luminothérapie fait des merveilles. Une lampe de 10’000 lux minimum peut être achetée ou louée.<br /> Passez 30 minutes devant la lampe entre 6 h et 8 h du matin ainsi qu’une prise de 1 mg de mélatonine à 22 h, et l’hiver deviendra une agréable saison&#8230; <span style="text-align: right; display: block; margin-top: 1em;">automne 2014</span></p>
+<p style="margin-top: 3em;">Pour les personnes sensibles au manque de lumière, le coup de blues hivernal, la luminothérapie fait des merveilles. Une lampe de 10’000 lux minimum peut être achetée ou louée.<br /> Passez 30 minutes devant la lampe entre 6 h et 8 h du matin ainsi qu’une prise de 1 mg de mélatonine à 22 h, et l’hiver deviendra une agréable saison... <span style="text-align: right; display: block; margin-top: 1em;">automne 2014</span></p>

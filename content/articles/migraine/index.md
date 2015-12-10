@@ -132,4 +132,4 @@ Comme vous pouvez le constater, **une approche naturopathique demande à être 
 
 &nbsp;
 
-© Copyright 2006, Roland Carriot, pour le Centre de Naturopathie &#8211; CNL
+© Copyright 2006, Roland Carriot, pour le Centre de Naturopathie – CNL

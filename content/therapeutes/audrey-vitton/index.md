@@ -5,7 +5,7 @@ layout: page
 date: 2014-08-11 14:52:57.000000000 +02:00
 ---
 
-<p><a href="http://cnl-naturopathie.ch/wp-content/uploads/2014/08/audrey_vitton.jpeg"><img class="aligncenter size-thumbnail wp-image-321" src="images/audrey_vitton-150x150.jpeg" alt="audrey_vitton" width="150" height="150" /></a></p>
+<p><a href="./images/audrey_vitton-150x150.jpeg"><img class="aligncenter size-thumbnail wp-image-321" src="images/audrey_vitton-150x150.jpeg" alt="audrey_vitton" width="150" height="150" /></a></p>
 <p style="margin-top:30px; text-align: center;"><em><strong>Audrey Vitton, réflexologue diplômée, agrée ASCA</strong></em></p>
 <h2 id="laréflexologie">Réflexologie</h2>
 <p>La réflexologie est un massage ancestral qui se pratique sur intégrabilité des pieds. Par pressions et massages sur des zones bien précises, il vous permet de libérer les tensions du corps et retrouver un équilibre global.</p>

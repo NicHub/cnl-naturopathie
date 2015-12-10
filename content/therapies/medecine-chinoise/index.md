@@ -52,4 +52,4 @@ L’énergie circule dans le corps en suivant des voies linéaires qui ne corres
 
 Sur les méridiens sont localisés de nombreux points. C’est sur ces points que l’acupuncteur enfonce son aiguille. Parmi tous ces points d’acupuncture, qui sont aussi nombreux que les jours de l’année, les uns ont simplement une action individuelle, d’autres ont une action constante pour tous les méridiens, d’autres ont, en association avec d’autres points, une action particulière.
 
-<a href="/wp-content/uploads_bkp/2013/01/shema.pdf" target="_blank">schéma (document PDF)</a>
+<a href="./pdf/shema.pdf" target="_blank">schéma (document PDF)</a>

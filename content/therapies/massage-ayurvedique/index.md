@@ -4,7 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
-**ayur = vie  
+**ayur = vie
 véda = connaissance**
 
 Sagesse datant de plus de 5000 ans, l’ayurvéda inclut tout ce qui concerne la vie et la santé, et nous enseigne à vivre et nous nourrir de façon à empêcher la maladie. Sachez déjà que tout ce qui est fait avec Joie est bon pour la santé.
@@ -58,7 +58,7 @@ Ce massage des pieds touche les points réflexes du corps. Il aide les personnes
 
 Le bol utilisé pour ce massage s’appelle le Kansu, constitué d’un alliage de métaux dont le principal est le cuivre.
 
-## Udara &#8211; méthode pour débloquer l’abdomen
+## Udara – méthode pour débloquer l’abdomen
 
 Ce massage travaille en profondeur sur toute la région du ventre et bas ventre. Il active ainsi le colon, la vessie, détoxique toute la région uro-génitale. Il permet une bonne circulation des liquides et des énergies entre le haut et le bas du corps.
 

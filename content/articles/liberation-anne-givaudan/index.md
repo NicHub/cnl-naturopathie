@@ -114,6 +114,6 @@ Cette pratique, vous pouvez la faire en différentes circonstances, notamment lo
 Lausanne, 30 octobre 2008
 
 &nbsp;
-<p style="text-align: center;"><a href="/martine-bergamin/"><img class="aligncenter size-thumbnail wp-image-220" src="./images/feuille_martine_bergamin-150x150.png" alt="feuille_martine_bergamin" width="150" height="150" />
+<p style="text-align: center;"><a href="/therapeutes/martine-bergamin/"><img class="aligncenter size-thumbnail wp-image-220" src="./images/feuille_martine_bergamin-150x150.png" alt="feuille_martine_bergamin" width="150" height="150" />
 Martine Bergamin</a></p>
 &nbsp;

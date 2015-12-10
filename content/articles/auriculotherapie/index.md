@@ -16,7 +16,7 @@ Chaque point (estomac, foie, rein…) a une correspondance avec une partie du co
 
 L’auriculothérapie agit particulièrement dans les algies, c’est sa première indication. Toutes les douleurs, quelles qu’elles soient, peuvent être influencées, atténuées, soulagées et parfois effacées par le traitement au niveau de l’oreille.
 
-Les indications de l’auriculothérapie ne se limitent pas seulement aux douleurs. Elle est conseillée dans les états de souffrance qui se manifestent au niveau du système nerveux par des crises d’anxiété ou de dépression. On peut ainsi agir sur un grand nombre de troubles fonctionnels qui, apparemment, ne peuvent être améliorés facilement par les procédés classiques (angoisse, agoraphobie, obsessions, manque de concentration, vertiges&#8230;).
+Les indications de l’auriculothérapie ne se limitent pas seulement aux douleurs. Elle est conseillée dans les états de souffrance qui se manifestent au niveau du système nerveux par des crises d’anxiété ou de dépression. On peut ainsi agir sur un grand nombre de troubles fonctionnels qui, apparemment, ne peuvent être améliorés facilement par les procédés classiques (angoisse, agoraphobie, obsessions, manque de concentration, vertiges...).
 
 **Il faut noter que l’on peut favoriser particulièrement le sevrage dans beaucoup d’intoxications telles que tabac, médicaments, drogues, etc.**
 

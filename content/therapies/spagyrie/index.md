@@ -12,6 +12,6 @@ La spagyrie prend aujourd’hui une place centrale dans le domaine de la médeci
 
 Les essences spagyriques renforcent la vitalité de l’organisme en général et encouragent le processus de régénération.
 
-<a href="/wp-content/uploads_bkp/2013/01/depliant.pdf" target="_blank">Plantes et exemple de leurs applications traditionnelles (documents PDF)</a>
+<a href="./pdf/depliant.pdf" target="_blank">Plantes et exemple de leurs applications traditionnelles (documents PDF)</a>
 
-<a href="/wp-content/uploads_bkp/2013/01/cycle5elements.gif" target="_blank">Spagyrie Phylak et le cycle des 5 éléments</a>
+<a href="./images/cycle5elements.gif" target="_blank">Spagyrie Phylak et le cycle des 5 éléments</a>

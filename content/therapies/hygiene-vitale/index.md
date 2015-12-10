@@ -13,22 +13,22 @@ L’hygiène vitale tient compte de l’importance des lois de la Vie à disposi
 <div class="columns2">
   <ul>
     <li>
-      Alimentation &#8211; Nutrition
+      Alimentation – Nutrition
     </li>
     <li>
-      Air &#8211; Eau &#8211; Soleil
+      Air – Eau – Soleil
     </li>
     <li>
       Contact avec des matières
     </li>
     <li>
-      Activité physique &#8211; Sédentarité
+      Activité physique – Sédentarité
     </li>
     <li>
-      Travail &#8211; Repos
+      Travail – Repos
     </li>
     <li>
-      Habitat &#8211; Environnement
+      Habitat – Environnement
     </li>
     <li>
       Équilibre psychoaffectif

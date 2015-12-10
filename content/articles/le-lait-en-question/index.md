@@ -156,4 +156,4 @@ Naturopathe – Ostéopathe
 
 &nbsp;
 
-© Copyright janvier 2004, Roland Carriot, pour le Centre de Naturopathie &#8211; CNL
+© Copyright janvier 2004, Roland Carriot, pour le Centre de Naturopathie – CNL

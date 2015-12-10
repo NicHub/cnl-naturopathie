@@ -15,7 +15,7 @@ Si vous ne savez plus que penser de votre vie, que décider, que comprendre des 
 
 Si vous souffrez de comportements répétitifs inadéquats ou dérangeants.
 
-Si vous décidez de vous défaire d’une peur ou d’une phobie, prenez du temps pour vous consacrer à vous-même et vous défaire de cela&#8230;
+Si vous décidez de vous défaire d’une peur ou d’une phobie, prenez du temps pour vous consacrer à vous-même et vous défaire de cela...
 
 Vous êtes les bienvenus et vous trouverez de plus amples explications sur mon site :
 

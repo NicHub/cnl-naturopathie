@@ -10,7 +10,7 @@ date: 2013-12-14
 
 <img class="size-full wp-image-206 alignright" alt="logo_naet_petit" src="./images/logo_naet_petit.png" width="120" height="106" />La méthode NAET est un assemblage de notions de médecine classique, de médecine chinoise, d’ostéopathie, de kinésiologie et de diététique. De façon identique, elle aborde les allergies, les intolérances, les hypersensibilités en impliquant la libération dans l’organisme des immunoglobulines (IgE)
 
-La méthode NAET débouche sur un principe essentiel selon lequel la réaction allergique est en fait dictée par le cerveau, suivant la perception que celui-ci a de la substance en cause. Percevant cette dernière comme une menace pour l’organisme, le cerveau ordonne au système immunitaire de mobiliser ses défenses pour combattre &laquo;&nbsp;l’intrus&nbsp;&raquo;, ce qui se traduit par la réaction allergique.
+La méthode NAET débouche sur un principe essentiel selon lequel la réaction allergique est en fait dictée par le cerveau, suivant la perception que celui-ci a de la substance en cause. Percevant cette dernière comme une menace pour l’organisme, le cerveau ordonne au système immunitaire de mobiliser ses défenses pour combattre « l’intrus », ce qui se traduit par la réaction allergique.
 
 À partir de cette théorie, vérifiée par des milliers de cas traités, la méthode NAET comprend une **stimulation particulière des racines du système nerveux sympathique**, qui permet d’envoyer un message au cerveau, l’invitant à revenir sur sa perception erronée de la substance précise. Ce nouveau message s’imprimera définitivement après stimulation d’autres points d’acupuncture (par digitopuncture) et le respect de règles précises pendant quelques heures après le traitement.
 
@@ -18,4 +18,4 @@ La méthode NAET débouche sur un principe essentiel selon lequel la réaction a
 
 La méthode NAET est indolore, sûre et très efficace lorsqu’elle est appliquée dans les règles de l’art. **Elle n’implique aucun recours à des médicaments.**
 
- [1]: /wp-content/uploads_bkp/2012/12/logo_naet_petit.png
+ [1]: ./images/logo_naet_petit.png

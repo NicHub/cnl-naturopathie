@@ -89,12 +89,12 @@ En médecine complémentaire, il y a donc des traitements naturels pour ces enfa
 
 &nbsp;
 
-© Copyright 2008, Roland Carriot, pour le Centre de Naturopathie &#8211; CNL
+© Copyright 2008, Roland Carriot, pour le Centre de Naturopathie – CNL
 
 &nbsp;
 
 ## Lien externe
 
-Sur le même sujet, vous pouvez regarder l’émission Temps Présent sur la TSR : [Ritaline, enquête sur une pilule miracle][1].
+Sur le même sujet, vous pouvez regarder l’émission Temps Présent sur la TSR : [Ritaline, enquête sur une pilule miracle][1].
 
  [1]: http://www.rts.ch/emissions/temps-present/sante/2904010-ritaline-enquete-sur-une-pilule-miracle.html
