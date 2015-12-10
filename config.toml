@@ -1,5 +1,6 @@
 theme            = "cnl"
-baseurl          = "http://cnl-naturopathie.ch/"
+baseurl          = "http://pausenaturo.com/hugo_output/"
+canonifyurls     = true
 languageCode     = "fr-fr"
 title            = "CNL-Naturopathie"
 disableRSS       = true
