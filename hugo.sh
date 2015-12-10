@@ -1,5 +1,6 @@
 #!/bin/bash
 
+hugo server --buildDrafts -w
 
 # hugo server --buildDrafts -w      --theme=agency --destination="/Users/nico/Sites/cnl-naturopathie/hugo_output/"
 # hugo server --buildDrafts -w      --theme=aglaus
@@ -11,7 +12,7 @@
 # hugo server --buildDrafts -w      --theme=bootie-docs
 # hugo server --buildDrafts -w      --theme=bootstrap
 # hugo server --buildDrafts -w      --theme=cactus
-hugo server --buildDrafts -w      --theme=casper
+# hugo server --buildDrafts -w      --theme=casper
 # hugo server --buildDrafts -w      --theme=cocoa
 # hugo server --buildDrafts -w      --theme=creative
 # hugo server --buildDrafts -w      --theme=crisp
