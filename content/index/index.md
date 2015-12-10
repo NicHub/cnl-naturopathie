@@ -6,8 +6,6 @@ date: 2013-12-14
 url: /
 ---
 
-
-
 # Centre de Naturopathie Lausanne
 
 <div style="text-align: center;">
@@ -88,7 +86,5 @@ Lisez notre <a href="/articles/prevention-hiver/">article de prévention.</a>
 </p>
 </div>
 </div>
-
-
 
 </div>

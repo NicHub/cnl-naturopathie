@@ -4,6 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
+
 L’ostéopathie est un système de soins basé sur des techniques de manipulations douces, appliquées au niveau musculaire, vertébral, crânien, thoraco-abdomino-pelvien, ainsi que sur les membres.
 
 C’est une méthode thérapeutique extrêmement précise, logique, rigoureuse et efficace, qui vise à supprimer des lésions, ainsi qu’à rendre et maintenir la mobilité, la souplesse et le mouvement.

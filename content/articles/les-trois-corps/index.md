@@ -4,6 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
+
 Préambule : Il s’agit de clarifier, d’expliciter des synonymes touchant ce qu’est la matière et le monde de l’esprit (la spiritualité). En faisant cette démarche de synthèse, nous sommes forcément réducteurs et incomplets; ceci dans le but d’être simple pour comprendre un sujet difficile pour certains d’entre nous. À tous les niveaux d’organisation de l’univers, nous trouvons la notion de polarité (= qualité d’un système comportant deux pôles) qui elle-même est ambivalence, c’est-à-dire qui se caractérise par 2 composantes de sens contraires. Dès le big-bang, dès l’origine de la manifestation, celle-ci ne fût possible que par la polarité cosmique et universelle. L’ampoule n’éclaire que parce qu’il y a du courant positif et négatif. L’être humain n’échappe pas à cette polarité. Nous sommes donc constitués de deux pôles :
 
   1. [Le corps physique][1]

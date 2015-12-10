@@ -4,6 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
+
 ## Emotional Freedom Technique
 
 L’EFT est en fait une forme d’acupuncture sans aiguilles.

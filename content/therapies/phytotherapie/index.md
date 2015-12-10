@@ -4,6 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
+
 La phytothérapie est une méthode thérapeutique préventive et curative, qui utilise les plantes en tisanes, en teintures mères et en macérats glycérinés de bourgeons ou de jeunes pousses.
 
 Cette médecine par les plantes remonte à la nuit des temps. Elle est largement remise à l’honneur en notre époque de chimiothérapie, car elle a l’immense avantage d’être efficace et non nocive. Cependant, de nombreuses plantes sont toxiques à haute dose et peuvent perturber le métabolisme si elles ne sont pas prescrites ou utilisées avec précision.

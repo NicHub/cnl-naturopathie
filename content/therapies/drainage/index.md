@@ -4,6 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
+
 Le drainage lymphatique, enseigné par le Dr E. Vodder, est un massage très doux visant à travailler sur le réseau lymphatique du corps. Il a pour but de désintoxiquer et régénérer les tissus, d’éliminer les stases, et d’assumer une meilleure hydratation des cellules. Chaque mouvement se fait selon un rythme et un cheminement très précis. La lymphe usée se trouve drainée, ce qui permet d’évacuer les déchets métaboliques et le plasma du sang rechargé d’oxygène, ainsi que d’autres substances actives pour le nourrir et le régénérer.
 
 ## Indications

@@ -4,6 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
+
 Le lait, c’est bon pour la santé ! Les producteurs de lait, et surtout les gros distributeurs de l’agroalimentaire, martèlent qu’il faut boire du lait et avaler un maximum de produits laitiers pour être et rester en bonne santé.
 
 Le Dr Jean SEIGNALET, dans son ouvrage « L’alimentation ou la troisième médecine » (éd. Écologie Humaine – François-Xavier de Guibert) prouve le contraire. On peut très bien se passer du lait si on consomme normalement des légumes, des noix, des amandes, des céréales complètes ou germées, du poisson, des algues, du lait de riz, d’avoine, d’amandes, de soja… Surtout quand on sait qu’il n’y a plus beaucoup de nutriments assimilables dans les laits industriels.
@@ -24,7 +25,7 @@ Jusqu’à cette époque, on peut analyser la situation pour mettre en évidence
 
 Pourquoi du petit morceau de fromage accompagné d’un quignon de pain est-on passé à une véritable invasion de l’espace alimentaire par les laitages ? La consommation annuelle par habitant avoisine les 400 kilos ! Mais il n’y a pas que le lait, il y a les fromages, les yogourts que l’on sort si facilement du frigo, le chocolat, les desserts que l’on ne sait plus faire sans lait, les boissons à base de lait, les glaces, les sauces, les biscuits…
 
-En clair, le lait est un marché, et un marché énorme, dont les profits vont principalement aux gros distributeurs et aux multinationales de l’agroalimentaire, lesquels consacrent aux laitages environ 20 % du budget de publicité de l’ensemble des produits alimentaires !
+En clair, le lait est un marché, et un marché énorme, dont les profits vont principalement aux gros distributeurs et aux multinationales de l’agroalimentaire, lesquels consacrent aux laitages environ 20 % du budget de publicité de l’ensemble des produits alimentaires !
 
 ## Le lait, une vacherie !
 
@@ -100,7 +101,7 @@ Infections ORL à répétition chez l’enfant = otites, rhinopharyngites, bronc
         </li>
       </ul>
     </td>
-    
+
     <td>
       <ul>
         <li>

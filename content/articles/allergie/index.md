@@ -4,7 +4,8 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
-<img class="alignleft size-full wp-image-354" alt="allergie" src="./images/allergie.jpg" width="279" height="169" />L’allergie est la sixième maladie mondiale. L’asthme et la rhinite allergique (rhume des foins) représentent 80 % des consultations en allergie et sont la première cause d’absentéisme dans les écoles. Les allergies continuent à se développer de plus en plus rapidement en touchant des populations de plus en plus jeunes, qui sont de plus en plus en contact avec les polluants industriels allergisants et autres allergènes présents dans l’alimentation trafiquée ! La population la plus touchée est celle des jeunes entre 18 et 24 ans, mais 12 % des bébés (moins de 2 ans) sont désormais allergisés dans notre pays.
+
+<img class="alignleft size-full wp-image-354" alt="allergie" src="./images/allergie.jpg" width="279" height="169" />L’allergie est la sixième maladie mondiale. L’asthme et la rhinite allergique (rhume des foins) représentent 80 % des consultations en allergie et sont la première cause d’absentéisme dans les écoles. Les allergies continuent à se développer de plus en plus rapidement en touchant des populations de plus en plus jeunes, qui sont de plus en plus en contact avec les polluants industriels allergisants et autres allergènes présents dans l’alimentation trafiquée ! La population la plus touchée est celle des jeunes entre 18 et 24 ans, mais 12 % des bébés (moins de 2 ans) sont désormais allergisés dans notre pays.
 
 ## Traitement de l’allergie par la méthode naet (<em lang="en">Nambudripad’s Allergie Elimination Techniques</em>)
 

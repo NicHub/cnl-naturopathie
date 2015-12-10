@@ -4,6 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
+
 Le sport d’endurance, pratiqué d’une manière régulière, progressive et structurée, entretien une bonne santé au quotidien que ce soit sur le plan physique et moral.
 
 S’il permet d’améliorer ses performances au fil des entraînements il suscite souvent l’envie d’en faire toujours plus. Il est fréquent qu’un objectif ambitieux, comme un marathon, un triathlon, soit fixé afin de motiver des entraînements précis.

@@ -45,4 +45,3 @@ avec dépôts</th>
 <p>&nbsp;</p>
 
 La réflexologie podale permet de travailler les différents systèmes (nerveux, circulatoires, ostéo-articulaire, digestif…) selon un protocole précis en fonction de chaque pathologie.
-

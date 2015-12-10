@@ -4,6 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
+
 L’interrelation étroite du corps physique (le soma), du corps psychique et du corps spirituel crée une nouvelle médecine. Il n’y a pas de guérison sans cette approche holistique de l’être humain. Il ne faut donc ni négliger, ni renier les différentes approches de la Réalité. Il s’agira de rassembler les différentes thérapies s’occupant des 3 corps et renouer le dialogue entre les médecines, les thérapies contemporaines et les sagesses anciennes.
 
 Qu’est-ce qui informe ces trois corps ? Qu’est-ce qui leur permet d’être unité, en équilibre, en bonne santé ? C’est le logos. **Le logos est la lumière qui éclaire tout homme.** Logos signifie lien, cohérence et surtout **information, qui est le sens dans lequel tout se tient.**

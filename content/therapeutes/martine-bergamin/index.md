@@ -30,5 +30,3 @@ Vous êtes les bienvenus et vous trouverez de plus amples explications sur mon 
 <p style="text-align: center;">
   <a href="http://anges.ch" target="_blank"><img class="aligncenter size-thumbnail wp-image-220" src="./images/feuille_martine_bergamin-150x150.png" alt="feuille_martine_bergamin" width="150" height="150" /><br /> Martine Bergamin</a>
 </p>
-
-&nbsp;

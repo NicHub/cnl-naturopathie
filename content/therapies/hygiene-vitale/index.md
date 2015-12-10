@@ -4,6 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
+
 L’hygiène vitale est un ensemble de moyens et de pensées pour aider l’homme à vivre harmonieusement, physiquement et psychiquement dans son environnement.
 
 Pythagore au 6e siècle avant Jésus-Christ professait déjà que la plus noble tâche qu’on puisse proposer ici-bas était d’apprendre aux hommes à vivre. Il considérait la santé comme une harmonie et la maladie comme une rupture d’équilibre.

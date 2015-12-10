@@ -4,6 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
+
 ## La phobie des microbes est ridicule.
 
 Tout microbe est partie constituante d’une cellule ou est d’origine cellulaire. Il n’a pas plus de finalité pathogène qu’un autre être. Pour vivre, il cherche un milieu nutritif. L’homme le fait également, tout comme l’insecte ou l’animal. Il ne faut pas avoir la phobie des microbes. Nous devrions plutôt être reconnaissants envers ces petits êtres qui constituent la moindre de nos cellules, y compris spermatozoïdes et ovules, et qui y remplissent un rôle physiologique capital. La moindres des cellules alimentaires que nous absorbons a été formée ou est formée de microbes. Le microbe est l’être le plus utile physiologiquement sur la Terre, et son unité fonctionnelle dans le temps et l’espace est la plus importante qui soit. La doctrine de l’asepsie du vivant est une doctrine stupide. La vie n’est jamais aseptique, seule la matière peut l’être. Ce dogme ne résiste pas un instant à l’étude des faits, et la crédulité de nombreux médecins est étonnante pour admettre de tels dogmes qui constituent une métaphysique et non, loin de là, une science.

@@ -4,6 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
+
 Vous souffrez de migraine ou de maux de tête ! Vous avez tout essayé, en vain !
 
 **La naturopathie peut vous venir en aide.**
@@ -17,9 +18,9 @@ Que vos maux de tête résultent de l’hypertension, du syndrome prémenstruel,
 
 La migraine représente une menace sérieuse pour l’équilibre et la santé, les conséquences pouvant aller d’une gêne mineure jusqu’à un handicap total. Les personnes souffrant de maux de tête à répétition se sentent souvent à part, incomprises, coupées des autres, et elles ne peuvent pas prendre pleinement part aux activités quotidiennes normales.
 
-En Suisse, on estime à environ un million le nombre de migraineux, soit **7 % des hommes et 15 % des femmes**. C’est un des principaux motifs d’arrêt de travail. Cela veut dire 2,2 millions de journées perdues chaque année du fait de la migraine.
+En Suisse, on estime à environ un million le nombre de migraineux, soit **7 % des hommes et 15 % des femmes**. C’est un des principaux motifs d’arrêt de travail. Cela veut dire 2,2 millions de journées perdues chaque année du fait de la migraine.
 
-La migraine est une des affections les plus mal soignées. Selon des données actuelles, environ 10 % des migraineux ne se soignent pas du tout, alors que 50 % se soignent pas automédication. Les autres passent d’un médecin à l’autre parce qu’ils se sentent à chaque fois mal écoutés ou mal compris, sans compter que certains médicaments sont très mal supportés.
+La migraine est une des affections les plus mal soignées. Selon des données actuelles, environ 10 % des migraineux ne se soignent pas du tout, alors que 50 % se soignent pas automédication. Les autres passent d’un médecin à l’autre parce qu’ils se sentent à chaque fois mal écoutés ou mal compris, sans compter que certains médicaments sont très mal supportés.
 
 En médecine classique, il y a une théorie qui affirme qu’il n’existe aucune preuve du caractère héréditaire de la migraine. Une autre théorie affirme le contraire, en disant que l’origine peut se trouver dans une diminution cyclique des neurotransmetteurs biologiques.
 

@@ -4,6 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
+
 Le mot « spagyrie » signifie séparer et réunir. La spagyrie trouve son origine dans la vieille tradition de la médecine alchimique, basée sur l’œuvre du médecin suisse Paracelse (1493-1541).
 
 La spagyrie apporte les aspects essentiels d’une plante médicinale (huiles essentielles, oligo-éléments, substances minérales, principes actifs), sous une forme assimilable de façon optimale par l’organisme. Préparées selon des méthodes spécifiques (fermentation, distillation, calcination, dynamisation), ces essences trouvent leur application lors de troubles aigus et chroniques et se prêtent également très bien à des buts prophylactiques. Un traitement même prolongé ne produit aucun effet secondaire. Grâce à leur faible teneur en alcool, elles peuvent également être utilisées en pédiatrie. Le spectre d’application est large et va de la tête aux pieds.

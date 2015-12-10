@@ -4,6 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
+
 Il y a plus de 5’000 ans, les Chinois connaissaient déjà parfaitement l’anatomie de l’Homme, les lois du Ciel et de l’Univers, ainsi que les rythmes terrestres. Si le monde a évolué depuis lors, il n’a pas fondamentalement changé.
 
 <img class="alignleft size-thumbnail wp-image-382" alt="ying-yang" src="./images/ying-yang-150x150.png" width="150" height="150" />

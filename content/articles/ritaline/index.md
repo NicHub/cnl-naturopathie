@@ -4,11 +4,12 @@ author: nico
 layout: page
 date: 2013-12-14
 ---
+
 **LA RITALINE**
 
 Une drogue sur ordonnance !
 
-L’hyperactivité et le déficit d’attention se rencontrent partout dans le monde et dans toutes les classes sociales. Par quel phénomène ? On estime aujourd’hui qu’environ de 10 % des enfants d’âge scolaire en sont affectés, avec une prépondérance chez les garçons, avec les signes suivants :
+L’hyperactivité et le déficit d’attention se rencontrent partout dans le monde et dans toutes les classes sociales. Par quel phénomène ? On estime aujourd’hui qu’environ de 10 % des enfants d’âge scolaire en sont affectés, avec une prépondérance chez les garçons, avec les signes suivants :
 
   * Agite souvent ses mains et ses pieds ou se tortille sur sa chaise.
   * À du mal à rester assis, se lève souvent de son siège même en classe.
@@ -61,9 +62,9 @@ Au Canada, malgré ces risques, près d’un million d’enfants sont également
 
 En Australie, il y a dix ans, 46’000 enfants étaient soumis à la Ritaline, et ce nombre est actuellement de 246’000. L’Australie mérite la palme d’or pour le nombre de prescriptions. En 2002, les médecins avaient signé 220’000 ordonnances de Ritaline pour les enfants.
 
-En Suisse, au Danemark et en Suède, de 2001 à 2005, les ventes de Ritaline ont augmenté de 800 %.
+En Suisse, au Danemark et en Suède, de 2001 à 2005, les ventes de Ritaline ont augmenté de 800 %.
 
-Aux USA, la Ritaline connaît un succès sans précédent. Le Ministère de l’Éducation et l’institut national de la santé mentale (NIMH) poussent à l’utilisation de la Ritaline avec autant de vigueur et souvent en usant de termes encore plus enthousiastes que le fabricant lui-même. Près de 10 % des enfants américains âgés de 10 ans sont traités par ce médicament.
+Aux USA, la Ritaline connaît un succès sans précédent. Le Ministère de l’Éducation et l’institut national de la santé mentale (NIMH) poussent à l’utilisation de la Ritaline avec autant de vigueur et souvent en usant de termes encore plus enthousiastes que le fabricant lui-même. Près de 10 % des enfants américains âgés de 10 ans sont traités par ce médicament.
 
 ## Le point de vue du naturopathe
 

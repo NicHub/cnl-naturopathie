@@ -31,5 +31,3 @@ C’est une méthode qui permet d’identifier les ennuis de santé en les visua
 </tr>
 </tbody>
 </table>
-
-&nbsp;
