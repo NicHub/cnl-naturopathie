@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+
+{{ partial "nav.html" . }}
+
+    <section id="feature" class="transparent-bg">
+        <div class="container">
+			<h1>•• {{ .Title }} ••</h1>
+			{{ .Content }}
+        </div><!--/.container-->
+    </section><!--/#feature-->
+
+{{ partial "footer.html" . }}

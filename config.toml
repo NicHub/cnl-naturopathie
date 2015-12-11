@@ -1,4 +1,5 @@
-theme            = "cnl"
+# theme            = "cnl"
+theme            = "cnl-spirit"
 baseurl          = "http://cnl-naturopathie.ch/"
 # baseurl          = "http://nicocnl.s3-website-eu-west-1.amazonaws.com/"
 # baseurl          = "http://pausenaturo.com/hugo_output/"
