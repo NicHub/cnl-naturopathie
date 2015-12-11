@@ -1,3 +1,9 @@
+<hr />
+{{ if .Site.Params.CopyrightHTML }}<footer>
+<div class="text-center">{{ .Site.Params.CopyrightHTML | safeHTML }} — {{ .Site.Params.Webmaster | safeHTML }}</div>
+</footer>{{ end }}
+
+
     <script src="/js/jquery.js"></script>
     <script src="/js/bootstrap.min.js"></script>
     <script src="/js/jquery.prettyPhoto.js"></script>

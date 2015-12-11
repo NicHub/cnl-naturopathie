@@ -3,6 +3,9 @@ title: Le lait en question
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Le lait en question
+    image: feature.jpg
 ---
 
 Le lait, c’est bon pour la santé ! Les producteurs de lait, et surtout les gros distributeurs de l’agroalimentaire, martèlent qu’il faut boire du lait et avaler un maximum de produits laitiers pour être et rester en bonne santé.

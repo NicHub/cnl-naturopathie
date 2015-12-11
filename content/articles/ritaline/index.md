@@ -3,6 +3,9 @@ title: Hyperactivité – déficit d’attention
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Hyperactivité – déficit d’attention
+    image: feature.jpg
 ---
 
 **LA RITALINE**

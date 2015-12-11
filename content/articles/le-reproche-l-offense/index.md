@@ -3,6 +3,9 @@ title: Le reproche, l’offense
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Le reproche, l’offense
+    image: feature.jpg
 ---
 
 **Tu aimeras ton prochain comme toi-même** (verset 17-18, Levitique)

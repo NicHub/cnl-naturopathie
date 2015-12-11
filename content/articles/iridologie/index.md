@@ -3,6 +3,9 @@ title: Iridologie
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Iridologie
+    image: feature.jpg
 ---
 
 Établir un bilan de santé par l’iridologie n’est pas un diagnostic médical au sens légal du terme. Par contre, c’est une **extraordinaire méthode de dépistage et de prévention**.

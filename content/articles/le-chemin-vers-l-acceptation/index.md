@@ -3,6 +3,9 @@ title: Le chemin vers l’acceptation
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Le chemin vers l’acceptation
+    image: feature.jpg
 ---
 
 L’expérience première est toujours l’expérience de la dualité, mais celle-ci est inséparable de l’unité. La dualité est conflit et bonheur, chaos et harmonie, souffrance et plaisir, mal et bien, ordre et désordre, etc. Notre question sera : comment être sur le chemin de la délivrance et de l’unité (synonyme : la non-dualité) ? Commençons par faire une distinction entre le monde extérieur et le monde intérieur.

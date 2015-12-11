@@ -3,6 +3,9 @@ title: Libération — Anne Givaudan
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Libération — Anne Givaudan
+    image: feature.jpg
 ---
 
 <h2>Le détachement</h2>

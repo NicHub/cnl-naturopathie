@@ -3,6 +3,9 @@ title: Le sport d’endurance
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Le sport d’endurance
+    image: feature.jpg
 ---
 
 Le sport d’endurance, pratiqué d’une manière régulière, progressive et structurée, entretien une bonne santé au quotidien que ce soit sur le plan physique et moral.

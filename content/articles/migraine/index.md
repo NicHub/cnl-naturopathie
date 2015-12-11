@@ -3,6 +3,9 @@ title: La migraine
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ La migraine
+    image: feature.jpg
 ---
 
 Vous souffrez de migraine ou de maux de tête ! Vous avez tout essayé, en vain !

@@ -3,6 +3,9 @@ title: L’amour
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ L’amour
+    image: feature.jpg
 ---
 
 C’est de l’amour que naît tout sens de notre vie. Ainsi pour permettre à l’être humain, de petit à petit, mieux se comprendre et mieux se connaître, nous allons aborder l’amour et ses différents aspects en relation avec la notion des 3 corps. Pour atteindre l’équilibre, faisons de l’homme un être pleinement humain (avoir) et pleinement universel (être). Pour cela, nous avons besoin de nourriture terrestre pour construire et entretenir notre corps physique et d’une nourriture spirituelle pour faire croître le corps de l’être. Toute la question sera **d’être ou ne pas être**. La finalité première d’un être, c’est d’être et la souffrance majeure, c’est de ne pas être. Être, c’est avoir l’impression de se suffire à soi-même, de n’avoir rien à faire pour prouver qui on est ; d’agir, de ressentir et de penser en fonction de ce que « JE SUIS » (le SOI) et non en fonction de la volonté de quelques personnes (père, mère, curé, instituteur, femme, mari, etc.,) et/ou d’une quelconque organisation (famille, église, état, parti politique, secte, etc.). La loi qui régit l’univers et par conséquent l’homme, est celle de l’amour agape. La loi générale des systèmes, loi scientifique, nous informe que tout système qui n’obéit pas à la loi le régissant s’autodétruit.

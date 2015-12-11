@@ -3,6 +3,9 @@ title: Auriculothérapie
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Auriculothérapie
+    image: feature.jpg
 ---
 
 L’auriculothérapie est l’utilisation du pavillon auriculaire à des fins thérapeutiques. Cet emploi de l’oreille s’explique par une vascularisation très riche et une innervation sensitive dense et variée.

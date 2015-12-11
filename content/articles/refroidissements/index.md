@@ -3,6 +3,9 @@ title: Les refroidissements
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Les refroidissements
+    image: feature.jpg
 ---
 
 **_Fabienne Jordan-Grossrieder, Naturopathe – Nutritionniste_**

@@ -3,6 +3,9 @@ title: EFT
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ EFT
+    image: feature.jpg
 ---
 
 ## Emotional Freedom Technique

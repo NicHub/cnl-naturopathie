@@ -3,6 +3,9 @@ title: Lier, délier, allier
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Lier, délier, allier
+    image: feature.jpg
 ---
 
 Ce sont les 3 temps de toute relation, en particulier celle de l’enfant avec ses parents. C’est vrai aussi dans un couple. Tout d’abord, il s’agit de bien établir le lien. Pour certaines personnes, le lien a manqué, le lien avec la mère ne s’est pas effectué, les contacts physiques, affectifs ont manqué.

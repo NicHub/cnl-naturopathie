@@ -2,59 +2,43 @@
 
 {{ partial "nav.html" . }}
 
-<h1>INDEX</h1>
 
-{{/*
-	<section id="feature" class="transparent-bg">
-		<div class="container">
-		{{ .Content }}
-		{{ .Data.Pages.Content }}
-		</div><!--/.container-->
-	</section><!--/#feature-->
-*/}}
+<section id="feature" class="transparent-bg">
+	<div class="container">
 
+		<h1>Articles</h1>
+		<ol>
+			{{ range .Data.Pages }}
+			{{ if eq .Type "articles" }}
+			<li>
+			    {{ $currentCategoryUrl := .Params.thumbnail.image | printf "%simages/%s" .Permalink }}
+				<img src="{{ $currentCategoryUrl }}" alt="" />
+				<a href="{{ .Permalink }}">{{ .Params.thumbnail.desc }}</a>
+			</li>
+			{{ end }}
+			{{ end }}
+		</ol>
 
-{{/*
-	 <h1>Pages</h1>
-	 {{ range .Data.Pages }}
-		 {{ if eq .Type "page" }}
-			 <h2><a href="{{ .Permalink }}">{{ .Title }}</a></h2>
-			 {{ .Content }}
-		 {{ end }}
-	 {{ end }}
+	</div>
+</section>
 
-*/}}
-
-
-{{/*
-	<h1>Articles</h1>
-	<ol>
-	{{ range .Data.Pages }}
-		{{ if eq .Type "articles"}}
-			<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
+<section id="feature" class="transparent-bg">
+	<div class="container">
+		<ol>
+		{{ range .Data.Pages }}
+		<li>{{ .Title }}
+			{{ if isset .Params "shortdesc" }}
+			<ul><li>{{ .Params.shortdesc }}</li></ul>
+			{{ end }}
+			{{ if isset .Params "image" }}
+			<ul><li>{{ .Params.image }}</li></ul>
+			{{ end }}
+		</li>
 		{{ end }}
-	{{ end }}
 	</ol>
+  </div>
+</section>
 
-	<h1>Thérapies</h1>
-	<ol>
-	{{ range .Data.Pages }}
-		{{ if eq .Type "therapies"}}
-			<li><a href="{{ .Permalink }}">{{ .Title }}</a></li>
-		{{ end }}
-	{{ end }}
-	</ol>
-*/}}
-
-
-
-{{/*
-	<ol>
-			<li><a href="{{< ref "articles/allergie/" >}}">Les allergies</a></li>
-	</ol>
-[Neat]({{< ref "blog/neat.md" >}})
-[Who]({{< relref "about.md#who" >}})
-*/}}
 
 
 {{ partial "footer.html" . }}

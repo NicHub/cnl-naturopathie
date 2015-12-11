@@ -3,6 +3,9 @@ title: Ostéopathie
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Ostéopathie
+    image: feature.jpg
 ---
 
 L’ostéopathie est un système de soins basé sur des techniques de manipulations douces, appliquées au niveau musculaire, vertébral, crânien, thoraco-abdomino-pelvien, ainsi que sur les membres.
