@@ -4,7 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 thumbnail:
-    desc: ❧ Drainage lymphatique
+    desc: Drainage lymphatique
     image: feature.jpg
     therapeute: Fabienne
 ---

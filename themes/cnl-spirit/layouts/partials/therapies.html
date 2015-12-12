@@ -1,54 +1,56 @@
-    <div class="container"> <!-- Container -->
-        <div class="section-title text-center center">
-            <h2>Les <strong>thérapies</strong></h2>
-            <div class="line">
-                <hr />
-            </div>
-            <div class="clearfix"></div>
-            <small><em></em></small>
-        </div>
-        <div class="space"></div>
+<div class="container">
 
-        <div class="categories">
+	<div class="section-title text-center center">
+		<h2>Les <strong>thérapies</strong></h2>
+		<div class="line">
+			<hr />
+		</div>
+		<div class="clearfix"></div>
+		<small><em></em></small>
+	</div>
 
-            <ul class="cat">
-                <li class="pull-left"><h4> </h4></li>
-                <li class="pull-right">
-                    <ol class="type">
-                        <li><a href="#" data-filter="*" class="active">Tous les thérapeutes</a></li>
-                        <li><a href="#" data-filter=".Fabienne">Fabienne Jordan-Grossrieder</a></li>
-                        <li><a href="#" data-filter=".Philippe">Philippe Gamondès</a></li>
-                        <li><a href="#" data-filter=".Martine" >Martine Bergamin</a></li>
-                    </ol>
-                </li>
-            </ul>
-            <div class="clearfix"></div>
-        </div>
+	<div class="space"></div>
 
-        <div id="lightbox" class="row">
-        {{ range .Data.Pages }}
-        {{ if eq .Type "therapies" }}
-            <div class="col-sm-6 col-md-3 col-lg-3 {{ .Params.thumbnail.therapeute }}">
-                <div class="portfolio-item">
-                    <div class="hover-bg">
-                        <a href="{{ .Permalink }}">
-                            <div class="" style="background-color:rgba( 255,255,255,0.2 ); color: white">
-                                <h4><br/>{{ .Params.thumbnail.desc }}</h4>
-                                <small> </small>
-                            </div>
-                            <div class="hover-text">
-                                <h4>{{ .Params.thumbnail.desc }}</h4>
-                                <small>Branding</small>
-                                <div class="clearfix"></div>
-                                <i class="fa fa-plus"></i>
-                            </div>
-                            <img src="img/portfolio/01.jpg" class="img-responsive" alt="..." />
-                        </a>
-                    </div>
-                </div>
-            </div>
-        {{ end }}
-        {{ end }}
-        </div>
-    </div>
+	<div class="categories">
+		<ul class="cat">
+			<li class="pull-left"><h4> </h4></li>
+			<li class="pull-right">
+				<ol class="type">
+					<li><a href="#" data-filter="*" class="active">Tous les thérapeutes</a></li>
+					<li><a href="#" data-filter=".Fabienne">Fabienne Jordan-Grossrieder</a></li>
+					<li><a href="#" data-filter=".Philippe">Philippe Gamondès</a></li>
+					<li><a href="#" data-filter=".Martine" >Martine Bergamin</a></li>
+				</ol>
+			</li>
+		</ul>
+		<div class="clearfix"></div>
+	</div>
+
+	<div id="lightbox" class="row">
+	{{ range .Data.Pages }}
+	{{ if eq .Type "therapies" }}
+	{{ $currentCategoryUrl := .Params.thumbnail.image | printf "%simages/%s" .Permalink }}
+		<div class="col-sm-6 col-md-3 col-lg-3 {{ .Params.thumbnail.therapeute }}">
+			<div class="portfolio-item">
+				<div class="hover-bg">
+					<a href="{{ .Permalink }}">
+						<div class="non-hover-text">
+							<h4><br/>{{ .Params.thumbnail.desc }}<br/></h4>
+							<small> </small>
+						</div>
+						<div class="hover-text">
+							<h4>{{ .Params.thumbnail.desc }}</h4>
+							<small> </small>
+							<div class="clearfix"></div>
+							<i class="fa fa-plus"></i>
+						</div>
+						<img src="{{ $currentCategoryUrl }}" class="img-responsive" alt="..." />
+					</a>
+				</div>
+			</div>
+		</div>
+	{{ end }}
+	{{ end }}
+	</div>
+
 </div>

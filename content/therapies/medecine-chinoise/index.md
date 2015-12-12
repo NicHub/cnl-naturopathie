@@ -4,7 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 thumbnail:
-    desc: ❧ Médecine chinoise
+    desc: Médecine chinoise
     image: feature.jpg
     therapeute: Philippe
 ---

@@ -466,6 +466,16 @@ ol.type li a.active { font-weight: 700; }
 .hover-bg:hover .hover-text{
 	opacity: 1;
 }
+.non-hover-text{
+	background-color:rgba( 0,0,0,1 );
+	color: #fcac45;
+	text-align: center;
+	height: 80px;
+	padding: 0px 10px;
+}
+.hover-bg:hover .non-hover-text{
+
+}
 #tf-works i.fa {
 	height: 30px;
 	width: 30px;

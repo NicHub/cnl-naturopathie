@@ -1,71 +1,42 @@
-<!--
-	<div class="container">
+<div class="container">
 
-		<h1>Articles</h1>
-		<ol>
-			{{ range .Data.Pages }}
-			{{ if eq .Type "articles" }}
-			<li>
-				{{ $currentCategoryUrl := .Params.thumbnail.image | printf "%simages/%s" .Permalink }}
-				<img src="{{ $currentCategoryUrl }}" alt="" />
-				<a href="{{ .Permalink }}">{{ .Params.thumbnail.desc }}</a>
-			</li>
-			{{ end }}
-			{{ end }}
-		</ol>
-
+	<div class="section-title text-center center">
+		<h2>Découvrez nos <strong>articles</strong></h2>
+		<div class="line">
+			<hr />
+		</div>
+		<div class="clearfix"></div>
+		<small><em> </em></small>
 	</div>
- -->
-		<div class="container"> <!-- Container -->
-			<div class="section-title text-center center">
-				<h2>Découvrez nos <strong>articles</strong></h2>
-				<div class="line">
-					<hr />
-				</div>
-				<div class="clearfix"></div>
-				<small><em> </em></small>
-			</div>
-			<div class="space"></div>
-<!--
-			<div class="categories">
 
-				<ul class="cat">
-					<li class="pull-left"><h4>Filter by Type:</h4></li>
-					<li class="pull-right">
-						<ol class="type">
-							<li><a href="#" data-filter="*" class="active">All</a></li>
-							<li><a href="#" data-filter=".web">Web Design</a></li>
-							<li><a href="#" data-filter=".photography">Photography</a></li>
-							<li><a href="#" data-filter=".app" >Mobile App</a></li>
-							<li><a href="#" data-filter=".branding" >Branding</a></li>
-						</ol>
-					</li>
-				</ul>
-				<div class="clearfix"></div>
-			</div>
- -->
-			<div id="lightbox" class="row">
+	<div class="space"></div>
 
-			{{ range .Data.Pages }}
-			{{ if eq .Type "articles" }}
-				{{ $currentCategoryUrl := .Params.thumbnail.image | printf "%simages/%s" .Permalink }}
-				<div class="col-sm-6 col-md-3 col-lg-3 branding">
-					<div class="portfolio-item">
-						<div class="hover-bg">
-							<a href="{{ .Permalink }}">
-								<div class="hover-text">
-									<h4>{{ .Params.thumbnail.desc }}</h4>
-									<small> </small>
-									<div class="clearfix"></div>
-									<i class="fa fa-plus"></i>
-								</div>
-								<img src="{{ $currentCategoryUrl }}" class="img-responsive" alt="..." />
-							</a>
+	<div id="lightbox_2" class="row">
+	{{ range .Data.Pages }}
+	{{ if eq .Type "articles" }}
+		{{ $currentCategoryUrl := .Params.thumbnail.image | printf "%simages/%s" .Permalink }}
+		<div class="col-sm-6 col-md-3 col-lg-3 branding">
+			<div class="portfolio-item">
+				<div class="hover-bg">
+					<a href="{{ .Permalink }}">
+						<div class="non-hover-text">
+							<h4><br/>{{ .Params.thumbnail.desc }}<br/></h4>
+							<small> </small>
 						</div>
-					</div>
-				</div>
-			{{ end }}
-			{{ end }}
 
+						<div class="hover-text">
+							<h4>{{ .Params.thumbnail.desc }}</h4>
+							<small> </small>
+							<div class="clearfix"></div>
+							<i class="fa fa-plus"></i>
+						</div>
+						<img src="{{ $currentCategoryUrl }}" class="img-responsive" alt="..." />
+					</a>
+				</div>
 			</div>
 		</div>
+	{{ end }}
+	{{ end }}
+	</div>
+
+</div>
