@@ -3,6 +3,10 @@ title: Spagyrie
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Spagyrie
+    image: feature.jpg
+    therapeute: Fabienne
 ---
 
 Le mot « spagyrie » signifie séparer et réunir. La spagyrie trouve son origine dans la vieille tradition de la médecine alchimique, basée sur l’œuvre du médecin suisse Paracelse (1493-1541).

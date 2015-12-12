@@ -3,6 +3,10 @@ title: La Naturopathie et ses applications
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ La Naturopathie
+    image: feature.jpg
+    therapeute: Fabienne
 ---
 
 La Naturopathie est un ensemble de méthodes et de techniques, qui recherche les causes essentielles de la maladie et enseigne la nécessité de mettre en pratique les lois de la Vie pour rétablir ou conserver la santé par des moyens naturels.

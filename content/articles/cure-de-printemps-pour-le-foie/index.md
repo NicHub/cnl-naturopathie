@@ -4,7 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 thumbnail:
-    desc: ❧ Cure de printemps pour le foie
+    desc: Cure de printemps pour le foie
     image: feature.jpg
 ---
 

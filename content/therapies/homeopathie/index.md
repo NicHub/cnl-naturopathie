@@ -3,6 +3,10 @@ title: Homéopathie
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Homéopathie
+    image: feature.jpg
+    therapeute: Fabienne
 ---
 
 L’homéopathie est une médecine à fondements scientifiques, pratiquée par des spécialistes. Selon le Dr Samuel HAHNNEMANN (1755 — 1843), qui a passé sa vie à la mettre en valeur, l’homéopathie est basée sur le principe de similitude :

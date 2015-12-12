@@ -4,7 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 thumbnail:
-    desc: ❧ L’amour
+    desc: L’amour
     image: feature.jpg
 ---
 

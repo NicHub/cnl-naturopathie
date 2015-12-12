@@ -3,6 +3,10 @@ title: Phytothérapie
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Phytothérapie
+    image: feature.jpg
+    therapeute: Fabienne
 ---
 
 La phytothérapie est une méthode thérapeutique préventive et curative, qui utilise les plantes en tisanes, en teintures mères et en macérats glycérinés de bourgeons ou de jeunes pousses.

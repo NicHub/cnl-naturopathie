@@ -4,7 +4,7 @@ author: nico
 layout: article
 date: 2013-12-14
 thumbnail:
-    desc: ❧ L’allergie
+    desc: L’allergie
     image: feature.jpg
 ---
 

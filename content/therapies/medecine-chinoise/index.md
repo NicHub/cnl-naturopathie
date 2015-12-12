@@ -3,6 +3,10 @@ title: Médecine traditionnelle chinoise
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Médecine chinoise
+    image: feature.jpg
+    therapeute: Philippe
 ---
 
 Il y a plus de 5’000 ans, les Chinois connaissaient déjà parfaitement l’anatomie de l’Homme, les lois du Ciel et de l’Univers, ainsi que les rythmes terrestres. Si le monde a évolué depuis lors, il n’a pas fondamentalement changé.

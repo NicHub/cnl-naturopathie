@@ -4,7 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 thumbnail:
-    desc: ❧ Le lait en question
+    desc: Le lait en question
     image: feature.jpg
 ---
 

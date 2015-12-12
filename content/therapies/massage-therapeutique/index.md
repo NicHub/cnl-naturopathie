@@ -3,6 +3,10 @@ title: Massage thérapeutique aux huiles essentielles
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Massage thérapeutique
+    image: feature.jpg
+    therapeute: Fabienne
 ---
 
 <img class="alignleft size-full wp-image-323" alt="huiles" src="./images/huiles.jpg" width="200" height="150" />Le massage est vieux comme le monde. C’est l’expérience du toucher, primordiale et pourtant si négligée par notre civilisation. C’est le 1er contact de l’enfant, les gestes qui réconfortent, la main qui frictionne instinctivement l’endroit douloureux. Tout le monde à besoin de se détendre, d’échapper à la tyrannie du temps et, pourtant, nous restons maladroits face à ce mode de communication.

@@ -3,6 +3,10 @@ title: Veinologie
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Veinologie
+    image: feature.jpg
+    therapeute: Fabienne
 ---
 
 80 % des femmes et 40 % des hommes présentent des troubles liés à l’insuffisance veineuse : 10 % se soignent !

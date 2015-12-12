@@ -3,6 +3,10 @@ title: La réflexologie podale
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Réflexologie podale
+    image: feature.jpg
+    therapeute: Fabienne
 ---
 
 La réflexologie se fonde sur le principe qu’il existe des zones ou des points réflexes sur les pieds et les mains, qui correspondent chacun à un organe, une glande ou une structure du corps. En stimulant les zones réflexes des pieds ou des mains, cela produit une réaction biochimique via le système nerveux sur l’organe cible (estomac, foie, reins, etc.) et permet ainsi d’éliminer des blocages, de retrouver la santé.

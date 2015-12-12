@@ -3,6 +3,10 @@ title: Hygiène vitale
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Hygiène vitale
+    image: feature.jpg
+    therapeute: Fabienne
 ---
 
 L’hygiène vitale est un ensemble de moyens et de pensées pour aider l’homme à vivre harmonieusement, physiquement et psychiquement dans son environnement.

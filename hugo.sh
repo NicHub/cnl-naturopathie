@@ -3,8 +3,8 @@
 OUT_PATH="/Users/nico/Sites/cnl-naturopathie/hugo_output/"
 rm -rf $OUT_PATH
 # hugo server --buildDrafts --watch --destination=$OUT_PATH
-hugo server --destination=$OUT_PATH
-# hugo --destination=$OUT_PATH
+# hugo server --destination=$OUT_PATH
+hugo --destination=$OUT_PATH
 
 # Intéressant
 # hugo server --buildDrafts -w      --theme=redlounge

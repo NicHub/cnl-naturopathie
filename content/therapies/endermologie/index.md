@@ -3,6 +3,10 @@ title: L’endermologie
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Endermologie
+    image: feature.jpg
+    therapeute: Fabienne
 ---
 
 <p>L’endermologie est une technique non chirurgicale, crée au début des années 1980 par LPG System, afin de manipuler en douceur le tissu cutané et sous-cutané. Elle se pratique avec un appareil, le CELLU M6, sur le principe d’aspiration-enroulement-déroulement.</p>

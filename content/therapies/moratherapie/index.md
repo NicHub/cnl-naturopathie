@@ -3,6 +3,10 @@ title: La biorésonnance avec appareil MORA ou le rationnel en médecine énerg�
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Biorésonnance MORA
+    image: feature.jpg
+    therapeute: Fabienne
 ---
 
 La biorésonnance avec appareil MORA est une technique de biophysique médicale fondée sur l’utilisation et la correction des oscillations électromagnétiques captées sur les méridiens et points d’acupuncture du patient lui-même, au moyen de l’appareil MORA.

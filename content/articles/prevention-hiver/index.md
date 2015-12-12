@@ -4,7 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 thumbnail:
-    desc: ❧ Prévention pour l’hiver
+    desc: Prévention pour l’hiver
     image: feature.jpg
 ---
 

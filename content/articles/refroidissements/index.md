@@ -4,7 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 thumbnail:
-    desc: ❧ Les refroidissements
+    desc: Les refroidissements
     image: feature.jpg
 ---
 

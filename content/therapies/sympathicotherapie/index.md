@@ -3,6 +3,10 @@ title: Sympathicothérapie
 author: nico
 layout: page
 date: 2013-12-14
+thumbnail:
+    desc: ❧ Sympathicothérapie
+    image: feature.jpg
+    therapeute: Fabienne
 ---
 
 <p><a href="./images/sympatico.jpg"><img class="alignleft size-full wp-image-319" alt="sympatico" src="images/sympatico.jpg" width="200" height="176" /></a>La <b>sympathicothérapie</b> est une technique utilisant les zones réflexes endonasales dans un but thérapeutique. Elle s’apparente aux autres méthodes réflexogènes telles que l’acupuncture, l’auriculothérapie et la podoréflexologie.</p>

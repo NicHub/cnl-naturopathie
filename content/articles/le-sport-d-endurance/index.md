@@ -4,7 +4,7 @@ author: nico
 layout: page
 date: 2013-12-14
 thumbnail:
-    desc: ❧ Le sport d’endurance
+    desc: Le sport d’endurance
     image: feature.jpg
 ---
 
