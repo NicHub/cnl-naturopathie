@@ -1,0 +1,30 @@
+{{ partial "header.html" . }}
+
+{{ partial "nav.html" . }}
+
+<div style="margin-top:100px;">
+articles
+</div>
+
+
+    {{ if .NextInSection }}
+        <a rel="next" href="{{ .NextInSection.Permalink }}" id="next">
+            <span class="nav-title nav-title-next">{{ .NextInSection.Title }}</span> &rarr;
+        </a>
+    {{ end }}
+    {{ if .PrevInSection }}
+        <a rel="prev" href="{{ .PrevInSection.Permalink }}" id="prev">
+            &larr; <span class="nav-title nav-title-prev">{{ .PrevInSection.Title }}</span>
+        </a>
+    {{ end }}
+
+
+    <section id="feature" class="transparent-bg">
+        <div class="container">
+            <h1>•• {{ .Title }} ••</h1>
+            {{ .Content }}
+        </div><!--/.container-->
+    </section><!--/#feature-->
+
+
+{{ partial "footer.html" . }}
