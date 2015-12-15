@@ -1,7 +1,6 @@
 ---
 title: Prévention pour l’hiver
 author: nico
-layout: page
 date: 2013-12-14
 thumbnail:
     desc: Prévention pour l’hiver

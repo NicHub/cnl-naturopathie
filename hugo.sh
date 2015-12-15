@@ -45,6 +45,7 @@ s3)
 *)
     hugo server                  \
         --watch                  \
+        --theme cnl-spirit       \
         --destination=$OUT_PATH
     ;;
 

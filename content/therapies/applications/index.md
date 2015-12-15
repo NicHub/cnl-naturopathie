@@ -1,7 +1,7 @@
 ---
 title: La Naturopathie et ses applications
 author: nico
-layout: page
+type: article
 date: 2013-12-14
 thumbnail:
     desc: La Naturopathie

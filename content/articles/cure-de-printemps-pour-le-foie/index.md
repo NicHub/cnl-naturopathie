@@ -1,7 +1,6 @@
 ---
 title: Cure de printemps pour le foie
 author: nico
-layout: page
 date: 2013-12-14
 thumbnail:
     desc: Cure de printemps pour le foie

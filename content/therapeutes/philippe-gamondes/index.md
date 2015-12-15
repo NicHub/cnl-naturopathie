@@ -1,6 +1,5 @@
 ---
 title: Philippe Gamondès
-layout: page
 date: 2014-08-11
 weight: 1
 infos:

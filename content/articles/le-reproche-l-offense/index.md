@@ -1,7 +1,6 @@
 ---
 title: Le reproche, l’offense
 author: nico
-layout: page
 date: 2013-12-14
 thumbnail:
     desc: Le reproche, l’offense

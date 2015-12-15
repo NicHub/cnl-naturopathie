@@ -28,6 +28,7 @@ hugo server --buildDrafts -w      --theme=hugo-bootswatch
 hugo server --buildDrafts -w      --theme=herring-cove
 hugo server --buildDrafts -w      --theme=hugo-uno
 hugo server --buildDrafts -w      --theme=heather-hugo
+hugo server --buildDrafts -w      --theme=hikari
 
 # ONE PAGE
 hugo server --buildDrafts -w      --theme=creative

@@ -1,6 +1,5 @@
 ---
 title: Fabienne Jordan-Grossrieder
-layout: page
 date: 2013-12-14
 weight: 2
 infos:

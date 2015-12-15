@@ -1,7 +1,6 @@
 ---
 title: Audrey Vitton
 author: nico
-layout: page
 date: 2014-08-11
 draft: true
 weight: 4

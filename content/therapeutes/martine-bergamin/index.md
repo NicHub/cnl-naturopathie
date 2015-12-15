@@ -1,7 +1,6 @@
 ---
 title: Martine Bergamin
 author: nico
-layout: page
 date: 2014-07-15
 weight: 3
 infos:

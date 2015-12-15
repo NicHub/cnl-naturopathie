@@ -1,7 +1,6 @@
 ---
 title: Le sport d’endurance
 author: nico
-layout: page
 date: 2013-12-14
 thumbnail:
     desc: Le sport d’endurance

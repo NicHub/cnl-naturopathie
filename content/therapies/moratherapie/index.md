@@ -1,7 +1,6 @@
 ---
 title: La biorésonnance avec appareil MORA ou le rationnel en médecine énergétique
 author: nico
-layout: page
 date: 2013-12-14
 thumbnail:
     desc: Biorésonnance MORA
