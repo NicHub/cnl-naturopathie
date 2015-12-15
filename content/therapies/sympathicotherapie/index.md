@@ -1,7 +1,6 @@
 ---
-title: Sympathicothérapie
-author: nico
-date: 2013-12-14
+title: La sympathicothérapie
+date: 2015-12-14
 thumbnail:
     desc: Sympathicothérapie
     image: feature.jpg

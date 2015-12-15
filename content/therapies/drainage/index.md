@@ -1,7 +1,6 @@
 ---
 title: Le drainage lymphatique Vodder
-author: nico
-date: 2013-12-14
+date: 2015-12-03
 thumbnail:
     desc: Drainage lymphatique
     image: feature.jpg

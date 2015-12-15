@@ -1,7 +1,6 @@
 ---
-title: Aromathérapie
-author: nico
-date: 2013-12-14
+title: L’aromathérapie
+date: 2015-12-01
 thumbnail:
     desc: Aromathérapie
     image: feature.jpg

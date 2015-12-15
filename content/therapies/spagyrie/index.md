@@ -1,7 +1,6 @@
 ---
-title: Spagyrie
-author: nico
-date: 2013-12-14
+title: La spagyrie
+date: 2015-12-13
 thumbnail:
     desc: Spagyrie
     image: feature.jpg

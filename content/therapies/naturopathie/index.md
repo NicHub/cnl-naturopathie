@@ -1,10 +1,8 @@
 ---
 title: La Naturopathie et ses applications
-author: nico
-type: article
-date: 2013-12-14
+date: 2015-12-10
 thumbnail:
-    desc: La Naturopathie
+    desc: Naturopathie
     image: feature.jpg
     therapeute: Fabienne
 ---

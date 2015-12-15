@@ -1,7 +1,6 @@
 ---
 title: L’endermologie
-author: nico
-date: 2013-12-14
+date: 2015-12-04
 thumbnail:
     desc: Endermologie
     image: feature.jpg

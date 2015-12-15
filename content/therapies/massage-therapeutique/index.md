@@ -1,7 +1,6 @@
 ---
-title: Massage thérapeutique aux huiles essentielles
-author: nico
-date: 2013-12-14
+title: Le massage thérapeutique aux huiles essentielles
+date: 2015-12-08
 thumbnail:
     desc: Massage thérapeutique
     image: feature.jpg

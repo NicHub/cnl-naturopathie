@@ -1,7 +1,6 @@
 ---
-title: Phytothérapie
-author: nico
-date: 2013-12-14
+title: La phytothérapie
+date: 2015-12-11
 thumbnail:
     desc: Phytothérapie
     image: feature.jpg

@@ -1,7 +1,6 @@
 ---
-title: Médecine traditionnelle chinoise
-author: nico
-date: 2013-12-14
+title: La médecine traditionnelle chinoise
+date: 2015-12-09
 thumbnail:
     desc: Médecine chinoise
     image: feature.jpg

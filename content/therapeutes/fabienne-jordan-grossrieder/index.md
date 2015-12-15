@@ -30,7 +30,7 @@ Fabienne Jordan-Grossrieder a eu la chance de travailler et collaborer avec Rola
       Bilan de santé
     </li>
     <li>
-      <a href="/therapies/applications/">Naturopathie</a>
+      <a href="/therapies/naturopathie/">Naturopathie</a>
     </li>
     <li>
       <a href="/therapies/hygiene-vitale/">Nutrition – Hygiène de vie</a>
@@ -66,7 +66,7 @@ Fabienne Jordan-Grossrieder a eu la chance de travailler et collaborer avec Rola
       <a href="/therapies/drainage/">Drainage lymphatique</a>
     </li>
     <li>
-      <a href="/therapies/moratherapie/">Biorésonnance avec appareil MORA</a>
+      <a href="/therapies/bioresonnance-mora/">Biorésonnance avec appareil MORA</a>
     </li>
   </ul>
 </div>

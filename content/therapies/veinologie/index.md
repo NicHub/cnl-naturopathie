@@ -1,7 +1,6 @@
 ---
-title: Veinologie
-author: nico
-date: 2013-12-14
+title: La veinologie
+date: 2015-12-15
 thumbnail:
     desc: Veinologie
     image: feature.jpg

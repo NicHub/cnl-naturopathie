@@ -1,7 +1,6 @@
 ---
 title: La réflexologie podale
-author: nico
-date: 2013-12-14
+date: 2015-12-12
 thumbnail:
     desc: Réflexologie podale
     image: feature.jpg

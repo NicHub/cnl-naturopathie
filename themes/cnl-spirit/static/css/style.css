@@ -612,3 +612,17 @@ nav#footer p{
 	background: #FCAC45;
 	border-color: #FCAC45;
 	color: #ffffff;
+
+
+
+
+/* navarticles */
+nav#navarticles {
+	background-color: black;
+	color: firebrick;
+}
+
+section#secarticles {
+	margin-top: 100px;
+	background-color: black !important;
+}

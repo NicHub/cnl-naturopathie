@@ -1,7 +1,6 @@
 ---
-title: Hygiène vitale
-author: nico
-date: 2013-12-14
+title: L’hygiène vitale
+date: 2015-12-06
 thumbnail:
     desc: Hygiène vitale
     image: feature.jpg

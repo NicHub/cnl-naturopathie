@@ -4,6 +4,7 @@ case "$1" in
 
 github)
     OUT_PATH="$HOME/Sites/cnl-naturopathie/cnl-spirit-github/"
+    # rm -rf $OUT_PATH # !! Ne pas effacer le répertoire .git !!
     echo "Génération des fichiers GitHub"
     hugo                                                                \
         --destination=$OUT_PATH                                         \

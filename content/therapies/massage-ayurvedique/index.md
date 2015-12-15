@@ -1,7 +1,6 @@
 ---
-title: Massage ayurvédique
-author: nico
-date: 2013-12-14
+title: Le massage ayurvédique
+date: 2015-12-07
 thumbnail:
     desc: Massage ayurvédique
     image: feature.jpg

@@ -1,7 +1,6 @@
 ---
-title: Homéopathie
-author: nico
-date: 2013-12-14
+title: L’homéopathie
+date: 2015-12-05
 thumbnail:
     desc: Homéopathie
     image: feature.jpg
