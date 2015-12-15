@@ -2,7 +2,17 @@
 title: Audrey Vitton
 author: nico
 layout: page
-date: 2014-08-11 14:52:57.000000000 +02:00
+date: 2014-08-11
+draft: true
+weight: 4
+infos:
+    image: audrey-vitton.jpg
+    nom: Vitton
+    prenom: Audrey
+    specialites: []
+    tel:
+    detail: Agréée par l’ASCA
+    url: /therapeutes/audrey-vitton
 ---
 
 <p><a href="./images/audrey_vitton-150x150.jpeg"><img class="aligncenter size-thumbnail wp-image-321" src="images/audrey_vitton-150x150.jpeg" alt="audrey_vitton" width="150" height="150" /></a></p>

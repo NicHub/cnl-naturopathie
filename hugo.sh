@@ -1,39 +1,53 @@
 #!/bin/bash
 
-OUT_PATH="/Users/nico/Sites/cnl-naturopathie/hugo_output/"
-rm -rf $OUT_PATH
-# hugo server --buildDrafts --watch --destination=$OUT_PATH
-hugo server --destination=$OUT_PATH
-# hugo --destination=$OUT_PATH
+case "$1" in
 
-# Intéressant
-# hugo server --buildDrafts -w      --theme=redlounge
-# hugo server --buildDrafts -w      --theme=tinyce
-# hugo server --buildDrafts -w      --theme=polymer
-# hugo server --buildDrafts -w      --theme=persona
-# hugo server --buildDrafts -w      --theme=material-lite
-# hugo server --buildDrafts -w      --theme=liquorice
-# hugo server --buildDrafts -w      --theme=landing-page-hugo
-# hugo server --buildDrafts -w      --theme=hyde-x
-# hugo server --buildDrafts -w      --theme=hyde
-# hugo server --buildDrafts -w      --theme=hugo-minimalist
-# hugo server --buildDrafts -w      --theme=grid-side
-# hugo server --buildDrafts -w      --theme=greyshade
-# hugo server --buildDrafts -w      --theme=freelancer
-# hugo server --buildDrafts -w      --theme=crisp
+github)
+    OUT_PATH="$HOME/Sites/cnl-naturopathie/cnl-spirit-github/"
+    echo "Génération des fichiers GitHub"
+    hugo                                                                \
+        --destination=$OUT_PATH                                         \
+        --baseURL="http://nichub.github.io/cnl-spirit/"
+    cp README.md $OUT_PATH
+    cd $OUT_PATH
+    if [ -z "$2" ]
+    then
+        echo "##########"
+        echo "site généré à $OUT_PATH"
+        COMMENT="Pas de commit sans commentaires !"
+    else
+        COMMENT=$2
+        git add .
+        git commit -m "$COMMENT"
+        git push
+    fi
+    echo "COMMENT = $COMMENT"
+    ;;
 
-# Très Intéressant
-# hugo server --buildDrafts -w      --theme=material-design
-# hugo server --buildDrafts -w      --theme=hugoscroll
-# hugo server --buildDrafts -w      --theme=hugo-zen
-# hugo server --buildDrafts -w      --theme=hugo-bootswatch
+hostpapa)
+    OUT_PATH="$HOME/Sites/cnl-naturopathie/cnl-spirit-hostpapa/"
+    rm -rf $OUT_PATH
+    echo "Génération des fichiers Hostpapa"
+    hugo                                                                \
+        --destination=$OUT_PATH                                         \
+        --baseURL="http://pausenaturo.com/cnl-spirit/"
+    ;;
 
-# Encore plus intéressant
-# hugo server --buildDrafts -w      --theme=herring-cove
-# hugo server --buildDrafts -w      --theme=hugo-uno
-# hugo server --buildDrafts -w      --theme=heather-hugo
+s3)
+    OUT_PATH="$HOME/Sites/cnl-naturopathie/cnl-spirit-s3/"
+    rm -rf $OUT_PATH
+    echo "Génération des fichiers S3"
+    hugo                                                                \
+        --destination=$OUT_PATH                                         \
+        --baseURL="http://nicocnl.s3-website-eu-west-1.amazonaws.com/"
+    ;;
 
-# ONE PAGE
-# hugo server --buildDrafts -w      --theme=creative
-# hugo server --buildDrafts -w      --theme=artists
-# hugo server --buildDrafts -w      --theme=agency
+*)
+    hugo server                  \
+        --watch                  \
+        --destination=$OUT_PATH
+    ;;
+
+esac
+
+exit 0

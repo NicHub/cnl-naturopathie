@@ -1,8 +1,18 @@
 ---
 title: Fabienne Jordan-Grossrieder
-author: nico
 layout: page
 date: 2013-12-14
+weight: 2
+infos:
+    image: fabienne-jordan.jpg
+    nom: Jordan-Grossrieder
+    prenom: Fabienne
+    specialites: [
+        Naturopathe,
+        Nutritionniste ]
+    tel: +41 21 601 35 82
+    detail: Agréée par l’ASCA
+    url: /therapeutes/fabienne-jordan-grossrieder
 ---
 
 **Fabienne Jordan-Grossrieder a le plaisir de vous accueillir sur le site du Centre de Naturopathie Lausanne**

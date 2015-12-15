@@ -1,5 +1,7 @@
 
-# cnl-naturopathie.ch
+# cnl-spirit
 
-<http://areatest.cbsnet.it/demo-template/spaland/index-video.html>
 
+<http://nichub.github.io/cnl-spirit/>
+
+ॐ

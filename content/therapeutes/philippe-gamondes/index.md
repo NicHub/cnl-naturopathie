@@ -1,8 +1,18 @@
 ---
 title: Philippe Gamondès
-author: nico
 layout: page
 date: 2014-08-11
+weight: 1
+infos:
+    image: philippe-gamondes.jpg
+    nom: Gamondès
+    prenom: Philippe
+    specialites: [
+        Nutritionniste,
+        Médecine chinoise ]
+    tel: +41 79 943 82 11
+    detail: Agréé par l’ASCA
+    url: /therapeutes/philippe-gamondes
 ---
 
 &nbsp;

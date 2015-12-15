@@ -3,6 +3,17 @@ title: Martine Bergamin
 author: nico
 layout: page
 date: 2014-07-15
+weight: 3
+infos:
+    image: feuille-martine-bergamin.png
+    nom: Bergamin
+    prenom: Martine
+    specialites: [
+        Thérapie de l’Âme,
+        Transmission<br/>des paroles<br/>de l’Ange ]
+    tel: +41 79 107 54 49
+    detail: Agréée par l’ASCA
+    url: /therapeutes/martine-bergamin
 ---
 
 <h2 style="text-align: center; line-height: 2em;">
