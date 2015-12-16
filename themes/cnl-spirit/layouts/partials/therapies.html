@@ -16,10 +16,13 @@
 			<li class="pull-left"><h4> </h4></li>
 			<li class="pull-right">
 				<ol class="type">
-					<li><a href="#" data-filter="*" class="active">Tous les thérapeutes</a></li>
-					<li><a href="#" data-filter=".Fabienne">Fabienne Jordan-Grossrieder</a></li>
-					<li><a href="#" data-filter=".Philippe">Philippe Gamondès</a></li>
-					<li><a href="#" data-filter=".Martine" >Martine Bergamin</a></li>
+					<li><a href="#" data-filter="*" class="active"><strong><em>Filter par thérapeute</em></strong> :        Tous les thérapeutes</a></li>
+					{{ range .Data.Pages }}
+					{{ if eq .Type "therapeutes" }}
+					<li><a href="#" data-filter=".{{ .Params.infos.prenom }}" >{{ .Params.infos.prenom }} {{ .Params.infos.nom }}</a></li>
+					{{ end }}
+					{{ end }}
+
 				</ol>
 			</li>
 		</ul>

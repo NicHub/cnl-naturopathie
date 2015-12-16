@@ -10,7 +10,13 @@
 		{{ range .Data.Pages }}
 		{{ if eq .Type "therapeutes" }}
 		{{ $TRPT_IMG    := .Params.infos.image | printf "%simages/%s" .Permalink }}
-		<div class="col-sm-6 col-md-4 col-lg-4 Fabienne">
+		{{/*
+		<!--
+		pour 4 thérapeutes : col-sm = 12 / nb thérapeutes
+		<div class="col-xs-12 col-sm-3 {{ .Params.infos.prenom }}">
+		 -->
+		*/}}
+		<div class="col-xs-12 col-sm-4 {{ .Params.infos.prenom }}">
 			<div class="thumbnail">
 				<a href="{{ .Params.infos.url }}">
 					<img src="{{ $TRPT_IMG }}" alt="{{ .Params.infos.prenom }} {{ .Params.infos.nom }}" class="img-circle team-img" />

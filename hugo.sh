@@ -43,6 +43,14 @@ s3)
         --baseURL="http://nicocnl.s3-website-eu-west-1.amazonaws.com/"
     ;;
 
+fenix)
+    OUT_PATH="$HOME/Sites/cnl-naturopathie/cnl-spirit-github/"
+    hugo                                        \
+        --baseURL="http://192.168.1.116:8080/" \
+        --theme cnl-spirit                      \
+        --destination=$OUT_PATH
+    ;;
+
 *)
     hugo server                  \
         --watch                  \
