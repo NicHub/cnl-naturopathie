@@ -13,7 +13,9 @@ C’est une des techniques réflexes les plus évoluées, issue de la médecine 
 
 Une image du corps se projette sur le pavillon auriculaire. Elle est assez voisine de celle du fœtus, dont la tête se trouverait au bas de l’oreille, au niveau du lobule, tandis que les mains et les pieds seraient localisés au sommet de l’auricule.
 
+<p style="text-align: center;">
 <img class="aligncenter size-full wp-image-339" alt="oreille_ponts" src="./images/oreille_ponts.gif" width="500" height="500" />
+</p>
 
 Chaque point (estomac, foie, rein…) a une correspondance avec une partie du corps par voie réflexe au système nerveux de l’organe concerné. On stimule les points au moyen de micro-courants électriques de faible intensité (entre 5 et 10 micro-ampères) ou avec des aiguilles d’acupuncture.
 

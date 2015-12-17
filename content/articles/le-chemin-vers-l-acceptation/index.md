@@ -9,7 +9,9 @@ thumbnail:
 
 L’expérience première est toujours l’expérience de la dualité, mais celle-ci est inséparable de l’unité. La dualité est conflit et bonheur, chaos et harmonie, souffrance et plaisir, mal et bien, ordre et désordre, etc. Notre question sera : comment être sur le chemin de la délivrance et de l’unité (synonyme : la non-dualité) ? Commençons par faire une distinction entre le monde extérieur et le monde intérieur.
 
-<img class="aligncenter size-full wp-image-369" alt="image007" src="./images/image007.jpg" width="1386" height="1039" />
+<p style="text-align: center;">
+<img class="aligncenter" alt="..." src="./images/image007.jpg" width="693" height="520" />
+</p>
 
 Le monde extérieur, le monde physique, la nature sont sans cesse soumis à deux lois : le changement et la différence.
 
@@ -47,7 +49,9 @@ La résignation : c’est se courber devant une fatalité, un coup du sort, des
 
 **Accepter d’être mortel :** y aurait-il dans mon être mortel un espace qui ne meurt pas ?
 
-<img class="aligncenter size-full wp-image-370" alt="image008" src="./images/image008.jpg" width="1386" height="1039" />
+<p style="text-align: center;">
+<img class="aligncenter" alt="..." src="./images/image008.jpg" width="693" height="520" />
+</p>
 
 ## Quel est le chemin vers l’acceptation ?
 

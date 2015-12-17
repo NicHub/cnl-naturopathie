@@ -1,6 +1,5 @@
 ---
 title: Le lait en question
-author: nico
 date: 2013-12-14
 thumbnail:
     desc: Le lait en question
@@ -19,9 +18,9 @@ Mais cela n’a peut-être rien à voir avec la pléthore actuelle, le phénomè
 
 Jusqu’à cette époque, on peut analyser la situation pour mettre en évidence les différences par rapport à aujourd’hui :
 
-  * Tout d’abord, les mères allaitaient leurs enfants plus longtemps, jusqu’à un an ou même deux ans, alors que de nos jours on allaite que durant quelques semaines, ou même quelques jours, ou encore pas du tout !
-  * Les femmes aisées, si elles n’allaitaient pas, prenaient une nourrice ; et ce n’était peut-être pas le moindre mal.
-  * Et si beaucoup d’enfants mouraient jeunes, s’ils étaient souvent rachitiques, parfois tuberculeux, il faut incriminer la misère, les taudis, la mauvaise hygiène, le travail précoce et les privations qui ne permettaient pas un sevrage normal.
+* Tout d’abord, les mères allaitaient leurs enfants plus longtemps, jusqu’à un an ou même deux ans, alors que de nos jours on allaite que durant quelques semaines, ou même quelques jours, ou encore pas du tout !
+* Les femmes aisées, si elles n’allaitaient pas, prenaient une nourrice ; et ce n’était peut-être pas le moindre mal.
+* Et si beaucoup d’enfants mouraient jeunes, s’ils étaient souvent rachitiques, parfois tuberculeux, il faut incriminer la misère, les taudis, la mauvaise hygiène, le travail précoce et les privations qui ne permettaient pas un sevrage normal.
 
 ## Pourquoi tant de lait aujourd’hui ?
 
@@ -55,17 +54,17 @@ Pour les bébés et les jeunes enfants, le lait de vache présente bien des inco
 
 Les besoins de l’enfant varient avec l’âge et il est remarquable de noter que la composition du lait maternel se modifie dans le temps. On distingue successivement :
 
-  * Le colostrum, durant les 5 premiers jours après la naissance
-  * Le lait de transition, du 6<sup>e</sup> au 15<sup>e</sup> jour.
-  * Le lait mature, du 16<sup>e</sup> jour au 15<sup>e</sup> mois.
+- Le colostrum, durant les 5 premiers jours après la naissance
+- Le lait de transition, du 6<sup>e</sup> au 15<sup>e</sup> jour.
+- Le lait mature, du 16<sup>e</sup> jour au 15<sup>e</sup> mois.
 
 Ces trois variétés de lait offrent des différences au niveau des graisses, des protéines, des minéraux, des oligo-éléments et des vitamines.
 
 Le lait de vache, de par sa composition fort éloignée de celle du lait maternel, ne constitue pas un aliment idéal pour le jeune enfant. Aussi l’industrie agroalimentaire a apporté des modifications au lait de vache, afin qu’il ressemble davantage au lait humain. Ainsi ont été préparés des laits maternisés, dits aussi « diététiques » ou « infantiles ». Ces laits maternisés se rapprochent du lait maternel, mais des différences majeures persistent :
 
-  * Certaines substances propres au lait humain manquent, comme la gynolactose, les IgA, la lipase,
-  * la bétalactoglobuline n’est pas supprimée,
-  * et le principal demeure : des protéines bovines sont introduites dans le tube digestif d’un enfant programmé pour traiter des protéines humaines = réactions allergiques !
+- Certaines substances propres au lait humain manquent, comme la gynolactose, les IgA, la lipase,
+- la bétalactoglobuline n’est pas supprimée,
+- et le principal demeure : des protéines bovines sont introduites dans le tube digestif d’un enfant programmé pour traiter des protéines humaines = réactions allergiques !
 
 ## Parlons d’allergies !
 
@@ -79,55 +78,22 @@ Cette allergie au lait de vache peut se déclencher chez le nourrisson dès les 
 
 Infections ORL à répétition chez l’enfant = otites, rhinopharyngites, bronchites
 
-<table style="width:100%;">
-  <tr>
-    <td>
-      <ul>
-        <li>
-          Asthme
-        </li>
-        <li>
-          Conjonctivite
-        </li>
-        <li>
-          Troubles digestifs
-        </li>
-        <li>
-          Choc anaphylactique
-        </li>
-        <li>
-          Candidose
-        </li>
-        <li>
-          Fatigue
-        </li>
-      </ul>
-    </td>
-
-    <td>
-      <ul>
-        <li>
-          Eczéma
-        </li>
-        <li>
-          Rhumatismes
-        </li>
-        <li>
-          Urticaire
-        </li>
-        <li>
-          Cystite
-        </li>
-        <li>
-          Migraine
-        </li>
-        <li>
-          Acné
-        </li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<div class="columns2">
+<ul>
+<li>Asthme</li>
+<li>Conjonctivite</li>
+<li>Troubles digestifs</li>
+<li>Choc anaphylactique</li>
+<li>Candidose</li>
+<li>Fatigue</li>
+<li>Eczéma</li>
+<li>Rhumatismes</li>
+<li>Urticaire</li>
+<li>Cystite</li>
+<li>Migraine</li>
+<li>Acné</li>
+</ul>
+</div>
 
 ## L’allergie aux polluants.
 

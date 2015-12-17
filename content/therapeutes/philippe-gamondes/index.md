@@ -16,7 +16,9 @@ infos:
 
 &nbsp;
 
-<img class="aligncenter wp-image-349 size-medium" src="./images/Philippe_Gamondes-169x300.jpg" alt="Philippe_Gamondes" width="169" height="300" />
+<p style="text-align: center;">
+<img class="aligncenter" src="./images/Philippe_Gamondes-169x300.jpg" alt="Philippe_Gamondes" width="169" height="300" />
+</p>
 
 &nbsp;
 

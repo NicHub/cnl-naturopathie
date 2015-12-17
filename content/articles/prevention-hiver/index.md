@@ -9,7 +9,7 @@ thumbnail:
 
 ***Fabienne Jordan-Grossrieder, Naturopathe – Nutritionniste***
 
-## Rester en pleine forme toute la saison froide
+## Rester en pleine forme<br/>toute la saison froide
 
 « Mieux vaut prévenir que guérir ». C’est le but de cet article. La santé n’est jamais acquise et doit être au centre de nos priorités. Nous ne sommes pas tous égaux vis-à-vis de la maladie, mais rien n’arrive par hasard, même quand nous « tombons » malades.
 La prévention des maux hivernaux se fait d’une manière globale. D’abord par une prise en charge de soi-même surtout, puis par la prise de remèdes.
@@ -23,221 +23,69 @@ Ces quelques conseils vous sembleront certainement logiques, mais nous n’avons
 * Dormir suffisamment, voire plus qu’en temps normal, car nous avons besoin de plus de repos. La fatigue est un stress qui fait chuter nos défenses immunitaires de manière très importante. Il faut se sentir reposé au réveil et en forme.
 * Alimentation : pour ce qui est des quantités, suivre l’adage : un déjeuner de roi, un dîner de prince et un souper de pauvre. Pour la qualité, mangez des fruits et légumes de saison. Ne pas surcharger l’alimentation en produits laitiers, en mauvaises graisses (saturées, trans ou hydrogénées) et en sucres raffinés. Attention à l’excès de soda et évitez les jus de fruits acides du commerce (orange, pamplemousse). **BOIRE CHAUD (infusions) ET MANGER CHAUD.** Évitez les repas de salades et préférez les soupes, les légumineuses et les légumes racines. L’hiver est la saison du méridien du rein. Pour renforcer son énergie, privilégiez le poulet, les lentilles, les baies, la châtaigne.
 * S’aérer au moins 30 minutes par jour et s’octroyer des moments de repos et de calme.
-* Maintenir un bon taux d’humidité (40–60%) dans la maison, bien l’aérer, voire diffuser des huiles essentielles (ravensare aromatica, lemongrass, lavendula vera).
+* Maintenir un bon taux d’humidité (40–60 %) dans la maison, bien l’aérer, voire diffuser des huiles essentielles (ravensare aromatica, lemongrass, lavendula vera).
 
-**Je vous recommande le traitement suivant, d’octobre à février** (liste non exhaustive) :
 
-<table class="recommandations" style="page-break-before: always !important;">
-  <tr>
-    <td class="titre" colspan="3">
-      <h2 class="invisible">
-        Grippe
-      </h2>
-    </td>
-  </tr>
 
-  <tr>
-    <td class="td1 ou">
-      <h2>
-         
-      </h2>
-    </td>
+<div style="page-break-before:always;" />
 
-    <td class="td2">
-      <h3 class="plus">
-        INFLUENZINUM 9 CH <span class="non-gras">(tube granules)</span>
-      </h3>
 
-      <p>
-        (vaccin homéopathique antigrippe)</td>
 
-        <td class="td3">
-          <p style="text-align: right;">
-            5 granules 1×/semaine à jeun
-          </p>
-        </td></tr>
+**Je vous recommande le traitement suivant, d’octobre à février**<br/>(liste non exhaustive) :
 
-        <tr>
-          <td class="titre" colspan="3">
-            <h2 class="invisible">
-              Refroidissement
-            </h2>
-          </td>
-        </tr>
+***
 
-        <tr class="pas_haut">
-          <td class="td1 ou">
-            <h2>
-              +
-            </h2>
-          </td>
+**Pollens de ciste, de châtaignier ou de saule**
 
-          <td>
-            <h3 class="plus">
-              Pollens de ciste, de châtaignier ou de saule
-            </h3>
-          </td>
+_1 cs le matin_
 
-          <td class="td3">
-            <p style="text-align: right;">
-              1 c à soupe le matin
-            </p>
-          </td>
-        </tr>
+_**OU**_
 
-        <tr class="pas_haut">
-          <td class="td1 ou">
-            <h2>
-              OU
-            </h2>
-          </td>
+**Préparation magistrale en Spagyrie Phylak : PS139.0 100ml**
 
-          <td>
-            <h3>
-              Préparation magistrale en Spagyrie Phylak : PS139.0<br /><span class="non-gras">Podophyllum, FREQuENCE 20%, Datura, Nuphar, Dulcamara, Coffea, Vinca, Rhus tox, Melilotus, Viscum, Quercus.</span>
-            </h3>
-          </td>
+_10 gouttes 1 à 2×/j_
 
-          <td class="td3">
-            <p style="text-align: right;">
-              100 ml, 10 gouttes / 1 à 2×/jour
-            </p>
-          </td>
-        </tr>
+Podophyllum, FREQuENCE 20 %, Datura, Nuphar, Dulcamara, Coffea, Vinca, Rhus tox, Melilotus, Viscum, Quercus.
 
-        <tr>
-          <td class="td1 ou">
-            <h2>
-              OU
-            </h2>
-          </td>
+_**OU**_
 
-          <td>
-            <h3>
-              EPS Echinacée-Cassis-Pin Sylvestre<span class="non-gras"><br />/ aa qsp 150 ml (phytolis)</span>
-            </h3>
+**C.I.P Défenses naturelles, Dietaroma**
 
-            <h3>
-              EPS Cypres-Réglisse-Ginseng<span class="non-gras"><br />/ aa qsp 150 ml (phytolis)</span>
-            </h3>
-          </td>
+_1 ampoule 1 j sur 2_
 
-          <td class="td3">
-            <p style="text-align: right;">
-              1 càc / 1 jour sur 2<br /><i>et alterner avec</i>
-            </p>
+***
 
-            <p style="text-align: right;">
-              1 càc / 1 jour sur 2
-            </p>
-          </td>
-        </tr>
+_**+**_
 
-        <tr>
-          <td class="titre" colspan="3">
-            <h2 class="invisible">
-              Carence alimentaire
-            </h2>
-          </td>
-        </tr>
+**Oméga 3 EPA/DHA ou Huile de foie de morue (+Vit D)**
 
-        <tr>
-          <td class="td1 ou">
-            <h2>
-              +
-            </h2>
-          </td>
+_1 comp/j_
 
-          <td>
-            <h3 class="plus">
-              Oméga 3 EPA/DHA <span class="non-gras">ou</span><br />Huile de foie de morue <span class="non-gras">(+Vit D)</span>
-            </h3>
-          </td>
+_**+**_
 
-          <td class="td3">
-            <p style="text-align: right;">
-              1 comp./jour
-            </p>
-          </td>
-        </tr>
+**Probiotique – Maxiflore (Synergia)**
 
-        <tr class="pas_haut">
-          <td class="td1 ou">
-            <h2>
-              +
-            </h2>
-          </td>
+_1 gél. 2×/sem_
 
-          <td>
-            <h3 class="plus">
-              Probiotique – Lactibiane référence
-            </h3>
-          </td>
+_**OU**_
 
-          <td class="td3">
-            <p style="text-align: right;">
-              1 gél. 2×/sem.
-            </p>
-          </td>
-        </tr>
+**Serum de Quinton isotonique**
 
-        <tr class="pas_haut">
-          <td class="td1 ou">
-            <h2>
-              OU
-            </h2>
-          </td>
+_1 ampoule 1 jour sur 2_
 
-          <td>
-            <h3>
-              Sérum de Quinton isotonique
-            </h3>
-          </td>
+***
 
-          <td class="td3">
-            <p style="text-align: right;">
-              1 ampoule 1 jour sur 2
-            </p>
-          </td>
-        </tr>
+_**+**_
 
-        <tr>
-          <td class="titre" colspan="3">
-            <h2 class="invisible">
-              Affection des voies respiratoires
-            </h2>
-          </td>
-        </tr>
+**Fumigations** avec la synergie **108** (Lakshmi-Usha Veda)
 
-        <tr>
-          <td class="td1 ou">
-            <h2>
-              +
-            </h2>
-          </td>
+_8 gouttes dans un bol d'eau chaude_
 
-          <td>
-            <h3 class="plus">
-              Fumigations avec la synergie 108 <span class="non-gras">(Lakshmi-Usha Veda)</span>
-            </h3>
-          </td>
+Chaque fois que le nez coule,  nez  sec, gorge sèche ou irritée ou que vous avez une toux, même petite.
 
-          <td class="td3">
-            <p style="text-align: right;">
-              8 gouttes dans un bol d’eau chaude
-            </p>
-          </td>
-        </tr>
+***
 
-        <tr>
-          <td class="td1">
-          </td>
 
-          <td colspan="2">
-            Chaque fois que le nez coule, nez sec, gorge sèche ou irritée ou que vous avez une toux, même petite.
-          </td>
-        </tr>
-</tbody>
-</table>
+<p style="margin-top: 5em;"></p>
 
-<p style="margin-top: 3em;">Pour les personnes sensibles au manque de lumière, le coup de blues hivernal, la luminothérapie fait des merveilles. Une lampe de 10’000 lux minimum peut être achetée ou louée.<br /> Passez 30 minutes devant la lampe entre 6 h et 8 h du matin ainsi qu’une prise de 1 mg de mélatonine à 22 h, et l’hiver deviendra une agréable saison... <span style="text-align: right; display: block; margin-top: 1em;">automne 2014</span></p>
+Pour les personnes sensibles au manque de lumière, le coup de blues hivernal, la luminothérapie fait des merveilles. Une lampe de 10’000 lux minimum peut être achetée ou louée.<br /> Passez 30 minutes devant la lampe entre 6 h et 8 h du matin ainsi qu’une prise de 1 mg de mélatonine à 22 h, et l’hiver deviendra une agréable saison... <span style="text-align: right; display: block; margin-top: 1em;">automne 2015</span>

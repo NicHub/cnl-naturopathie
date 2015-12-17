@@ -11,28 +11,18 @@ thumbnail:
 
 La veinologie est une méthode thérapeutique globale destinée à traiter les troubles liés à l’insuffisance veineuse et lymphatique. Les indications sont :
 
-<table style="width:100%;">
-<tbody>
-<tr>
-<td>
+<div class="columns2">
 <ul>
 <li>Jambes lourdes</li>
 <li>Œdèmes veino-lymphatiques</li>
 <li>Hypodermite et eczématisation</li>
 <li>Prévention des thromboses</li>
-</ul>
-</td>
-<td>
-<ul>
 <li>Fragilité des capillaires (télangiectasies)</li>
 <li>Varices et ulcères variqueux</li>
 <li>Hématomes</li>
 <li>Prévention des phlébites</li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
+</div>
 
 <img class="alignright size-full wp-image-336" alt="veinologie" src="./images/veinologie.jpg" width="150" height="252" />La veinologie permet d’avoir réellement des effets curatifs visibles et durables. Le traitement comprend :
 

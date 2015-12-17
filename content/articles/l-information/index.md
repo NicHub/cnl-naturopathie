@@ -11,7 +11,9 @@ L’interrelation étroite du corps physique (le soma), du corps psychique et du
 
 Qu’est-ce qui informe ces trois corps ? Qu’est-ce qui leur permet d’être unité, en équilibre, en bonne santé ? C’est le logos. **Le logos est la lumière qui éclaire tout homme.** Logos signifie lien, cohérence et surtout **information, qui est le sens dans lequel tout se tient.**
 
-<img class="aligncenter size-full wp-image-365" alt="image003" src="./images/image003.jpg" width="1386" height="1039" />
+<p style="text-align: center;">
+<img class="aligncenter" alt="..." src="./images/image003.jpg" width="693" height="520" />
+</p>
 
 Le concept d’information a deux significations :
 

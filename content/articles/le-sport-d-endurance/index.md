@@ -38,7 +38,7 @@ Pour plusieurs de ces besoins, il existe des complexes dans différentes marques
   * Les cofacteurs enzymatiques, orotate de magnésium, zinc, B1, B6, Q10 (100 mg).
   * Des antioxydants, Se-Zn-Mn-Cu, vit E (400 UI), vit C (500 mg).
   * Probiotiques pour les intestins.
-  * *Burgerstein* : probase 1 cc au coucher, neutralise l’acidité tissulaire.
+  * _Burgerstein_ : probase 1 cc au coucher, neutralise l’acidité tissulaire.
 
 ##  Conseils
 

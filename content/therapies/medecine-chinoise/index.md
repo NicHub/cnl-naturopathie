@@ -9,9 +9,7 @@ thumbnail:
 
 Il y a plus de 5’000 ans, les Chinois connaissaient déjà parfaitement l’anatomie de l’Homme, les lois du Ciel et de l’Univers, ainsi que les rythmes terrestres. Si le monde a évolué depuis lors, il n’a pas fondamentalement changé.
 
-<img class="alignleft size-thumbnail wp-image-382" alt="ying-yang" src="./images/ying-yang-150x150.png" width="150" height="150" />
-
-L’Homme matière n’est que le résultat d’une certaine énergie qui s’est condensée, différenciée, qui a évolué dans le temps pour se distinguer des espèces végétale et animale. L’Homme provient à la fois de l’énergie du Ciel (énergie pure) et de la Terre (énergie condensée). Tout dans l’Univers se réduit en matière et en énergie.
+<img class="alignleft" alt="ying-yang" src="./images/ying-yang-150x150.png" width="150" height="150" />L’Homme matière n’est que le résultat d’une certaine énergie qui s’est condensée, différenciée, qui a évolué dans le temps pour se distinguer des espèces végétale et animale. L’Homme provient à la fois de l’énergie du Ciel (énergie pure) et de la Terre (énergie condensée). Tout dans l’Univers se réduit en matière et en énergie.
 
 Cette énergie subit les grands rythmes universels du jour, de la nuit, des saisons, de l’année, de la Terre et de la Lune. Les phases de plénitude, d’intensité maximale et minimale se suivent en alternance régulière. C’est cette alternance, symbolisée par le Yin et le Yang, qui se retrouve partout.
 

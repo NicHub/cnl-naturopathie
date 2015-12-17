@@ -10,7 +10,7 @@ thumbnail:
 C’est de l’amour que naît tout sens de notre vie. Ainsi pour permettre à l’être humain, de petit à petit, mieux se comprendre et mieux se connaître, nous allons aborder l’amour et ses différents aspects en relation avec la notion des 3 corps. Pour atteindre l’équilibre, faisons de l’homme un être pleinement humain (avoir) et pleinement universel (être). Pour cela, nous avons besoin de nourriture terrestre pour construire et entretenir notre corps physique et d’une nourriture spirituelle pour faire croître le corps de l’être. Toute la question sera **d’être ou ne pas être**. La finalité première d’un être, c’est d’être et la souffrance majeure, c’est de ne pas être. Être, c’est avoir l’impression de se suffire à soi-même, de n’avoir rien à faire pour prouver qui on est ; d’agir, de ressentir et de penser en fonction de ce que « JE SUIS » (le SOI) et non en fonction de la volonté de quelques personnes (père, mère, curé, instituteur, femme, mari, etc.,) et/ou d’une quelconque organisation (famille, église, état, parti politique, secte, etc.). La loi qui régit l’univers et par conséquent l’homme, est celle de l’amour agape. La loi générale des systèmes, loi scientifique, nous informe que tout système qui n’obéit pas à la loi le régissant s’autodétruit.
 
 <p style="text-align: center;">
-  <img class="size-full wp-image-363 aligncenter" alt="image001" src="./images/image001.jpg" width="1386" height="1039" />
+<img class="aligncenter" alt="..." src="./images/image001.jpg" width="693" height="520" />
 </p>
 
 ## L’amour attachement
@@ -18,8 +18,9 @@ C’est de l’amour que naît tout sens de notre vie. Ainsi pour permettre à l
 Dans notre façon physique, **humaine** d’aimer, nous devons bien avoir conscience que c’est toujours donnant, donnant. Nous aimons pour être aimés, nous sommes structurés psychologiquement ainsi. Notre façon d’aimer les autres est proportionnelle à notre soif d’aimer. L’autre est **l’objet** de nos désirs. Derrière tous nos désirs se profile le désir de plénitude, d’infini. En fait, nous projetons sur l’autre le désir qu’il comble nos attentes d’infini. Arrêtons de lui demander d’être Dieu, de combler tout l’amour qui nous a manqué (l’amour de notre père, de notre mère...) Nous sommes bien dans la projection, nous demandons à un être humain d’être le tout, d’être l’infini qu’il n’est pas. Donc, ne pas faire de l’autre un objet, mais ne pas se faire non plus l’objet de l’autre. C’est **l’amour attachement**. En grec, c’est l’amour porneïa. C’est l’amour du bébé pour sa mère, en précisant que bébé n’aime pas sa mère, mais son sein, son lait, sa chaleur, l’objet maternant. Ceci est normal pour un bébé, mais **consommer** le monde comme un bébé montre bien souvent que nous ne sommes pas encore sortis de cette relation d’attachement, y compris en tant que parents qui n’ont pas fini de consommer leurs enfants. Il existe des façons d’aimer très affectives, très généreuses, mais qui cache une voracité à peine croyable : « je lui ai tout donné, ma vie, mon cœur, mon corps », mais qu’avons-nous donné ? Peut-être quelque chose que l’autre ne voulait pas. L’obstination de l’ego (le moi-je) qui veut la vie à son idée, en manipulant l’autre va s’exprimer par l’excès d’attachement. C’est une fixation pathologique sur un objet (autant les êtres que les choses) dans la **possession** duquel le désir pense trouver son assouvissement ou son repos. Quand l’objet nous échappe, cela fait naître de la souffrance dans le corps et dans l’âme. Penser posséder un objet, une personne, notre propre corps et même notre propre vie est une illusion. L’attachement établit un rapport de pouvoir, de dépendance, qui peut aboutir au harcèlement moral, au crime et à la guerre.
 
 <p style="text-align: center;">
-  <img class="aligncenter size-full wp-image-364" alt="image002" src="./images/image002.jpg" width="1386" height="1039" />
+<img class="aligncenter" alt="..." src="./images/image002.jpg" width="693" height="520" />
 </p>
+
 
 ## L’amour agape
 
@@ -41,7 +42,7 @@ L’amour absolu, inconditionnel, agape sera :
   2. ne pas juger qui que ce soit et quel que soit le mal qu’il nous aurait fait.
     Ne pas juger ne signifie pas, ne pas se servir de son jugement, mais ne pas s’en servir pour condamner autrui.
 
-*Mathieu 7, 1* : Ne jugez pas, car du jugement dont vous jugez, vous serez vous-même jugé. C’est la mesure dont vous vous servez qui servira pour vous.
+*Mathieu 7, 1* : Ne jugez pas, car du jugement dont vous jugez, vous serez vous-même jugé. C’est la mesure dont vous vous servez qui servira pour vous.
 
 Ceci se confirme scientifiquement 2’000 ans après par les lois de la mécanique quantique. Tout est boomerang.
 

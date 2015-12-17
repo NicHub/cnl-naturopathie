@@ -7,12 +7,12 @@ thumbnail:
     therapeute: Fabienne
 ---
 
-<p>L’endermologie est une technique non chirurgicale, crée au début des années 1980 par LPG System, afin de manipuler en douceur le tissu cutané et sous-cutané. Elle se pratique avec un appareil, le CELLU M6, sur le principe d’aspiration-enroulement-déroulement.</p>
-<h2>Le massage aux multiples bénéfices</h2>
-<table style="width:100%;">
-<tbody>
-<tr>
-<td>
+
+L’endermologie est une technique non chirurgicale, crée au début des années 1980 par LPG System, afin de manipuler en douceur le tissu cutané et sous-cutané. Elle se pratique avec un appareil, le CELLU M6, sur le principe d’aspiration-enroulement-déroulement.
+
+## Le massage aux multiples bénéfices
+
+<div class="columns2">
 <ul>
 <li>Réduction de la cellulite</li>
 <li>Harmonisation de la silhouette</li>
@@ -30,17 +30,27 @@ thumbnail:
 <li>Traitement des pathologies sportives</li>
 <li>Effet relaxant et antistress</li>
 </ul>
-</td>
-</tr>
-</tbody>
-</table>
-<p>L’endermologie ne fait pas maigrir toute seule, mais accompagnée d’une bonne hygiène de vie, la silhouette s’affine, se redessine et se tonifie indéniablement.</p>
-<p>Ici, la technologie appuyée par la naturopathie permet une approche globale du corps et un traitement spécifique pour chacun.</p>
-<p>L’endermologie est une méthode globale de soins, élaborée à partir des connaissances scientifiques du tissu conjonctif. Elle a fait ses preuves dans les transformations accidentelles du tissu conjonctif, les brûlés, les cicatrices, les oedèmes traumatiques et la cellulite.</p>
-<p>Les transformations acquises du tissu conjonctif, avec ou sans connotation esthétique préoccupante, ont la même base anatomo-physiologique que les atteintes accidentelles, et elles sont traitées avec la même rigueur par l’endermologie.</p>
-<p>Ce procédé permet de relancer la vascularisation des tissus engorgés. La graisse est dans un premier temps désorganisée, puis à long terme déstructurée, ce qui permet aux adipocytes (cellules graisseuses) de se vider de leur graisse. En débloquant ces barrages circulatoires, le capiton fond dans la masse. L’élimination des toxines dans les tissus est facilitée, ce qui aide et soutient énormément une phase de régime et de drainage de l’organisme. Ainsi, d’une manière générale, la silhouette s’affine indéniablement et surtout sur les zones sensibles comme la culotte de cheval, les fessiers, l’entre cuisse, les genoux. Cette technique permet également de traiter les contusions musculaires, les cicatrices (juste après une opération pour éviter des chéloïdes et des adhérences), les oedèmes (jambes lourdes, troubles circulatoires superficiels) sans abîmer les capillaires déjà apparents ; bien au contraire, ça les renforce.</p>
-<h2>Photos de patients traités par l’endermologie et suivant une alimentation équilibrée</h2>
-<p>&nbsp;</p>
+</div>
+
+
+
+L’endermologie ne fait pas maigrir toute seule, mais accompagnée d’une bonne hygiène de vie, la silhouette s’affine, se redessine et se tonifie indéniablement.
+
+Ici, la technologie appuyée par la naturopathie permet une approche globale du corps et un traitement spécifique pour chacun.
+
+L’endermologie est une méthode globale de soins, élaborée à partir des connaissances scientifiques du tissu conjonctif. Elle a fait ses preuves dans les transformations accidentelles du tissu conjonctif, les brûlés, les cicatrices, les oedèmes traumatiques et la cellulite.
+
+Les transformations acquises du tissu conjonctif, avec ou sans connotation esthétique préoccupante, ont la même base anatomo-physiologique que les atteintes accidentelles, et elles sont traitées avec la même rigueur par l’endermologie.
+
+Ce procédé permet de relancer la vascularisation des tissus engorgés. La graisse est dans un premier temps désorganisée, puis à long terme déstructurée, ce qui permet aux adipocytes (cellules graisseuses) de se vider de leur graisse. En débloquant ces barrages circulatoires, le capiton fond dans la masse. L’élimination des toxines dans les tissus est facilitée, ce qui aide et soutient énormément une phase de régime et de drainage de l’organisme. Ainsi, d’une manière générale, la silhouette s’affine indéniablement et surtout sur les zones sensibles comme la culotte de cheval, les fessiers, l’entre cuisse, les genoux. Cette technique permet également de traiter les contusions musculaires, les cicatrices (juste après une opération pour éviter des chéloïdes et des adhérences), les oedèmes (jambes lourdes, troubles circulatoires superficiels) sans abîmer les capillaires déjà apparents ; bien au contraire, ça les renforce.
+
+
+## Photos de patients traités par l’endermologie et suivant une alimentation équilibrée
+
+
+&nbsp;
+
+
 <h3>Cas 1</h3>
 <table>
 <colgroup>
@@ -61,7 +71,11 @@ Fessier : 102 - 7 = 91 cm</td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+
+
+&nbsp;
+
+
 <h3>Cas 2</h3>
 <table>
 <colgroup>
@@ -82,7 +96,11 @@ Culotte de cheval : 97.5 - 7.5 = 90 cm</td>
 </tr>
 </tbody>
 </table>
-<p>&nbsp;</p>
+
+
+&nbsp;
+
+
 <h3>Cas 3</h3>
 <table>
 <colgroup>

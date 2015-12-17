@@ -9,8 +9,8 @@ thumbnail:
 
 Préambule : Il s’agit de clarifier, d’expliciter des synonymes touchant ce qu’est la matière et le monde de l’esprit (la spiritualité). En faisant cette démarche de synthèse, nous sommes forcément réducteurs et incomplets; ceci dans le but d’être simple pour comprendre un sujet difficile pour certains d’entre nous. À tous les niveaux d’organisation de l’univers, nous trouvons la notion de polarité (= qualité d’un système comportant deux pôles) qui elle-même est ambivalence, c’est-à-dire qui se caractérise par 2 composantes de sens contraires. Dès le big-bang, dès l’origine de la manifestation, celle-ci ne fût possible que par la polarité cosmique et universelle. L’ampoule n’éclaire que parce qu’il y a du courant positif et négatif. L’être humain n’échappe pas à cette polarité. Nous sommes donc constitués de deux pôles :
 
-  1. [Le corps physique][1]
-  2. [Le corps d’information ou corps spirituel.][2]
+1. Le corps physique
+2. Le corps d’information ou corps spirituel
 
 ## Le corps physique {#le_corps_physique}
 
@@ -50,5 +50,3 @@ Autrement dit, nous pouvons imaginer le psychisme comme un miroir à deux faces,
 
 Le déséquilibre n’implique pas de renoncer à l’ego, à l’intellect et à l’analyse, mais à combler le déficit du cerveau droit. Il en est de même pour ceux qui sont insuffisamment incarnés dans la matière, leur tâche sera de développer des activités d’enracinement.
 
- [1]: #le_corps_physique
- [2]: #le_corps_d_information

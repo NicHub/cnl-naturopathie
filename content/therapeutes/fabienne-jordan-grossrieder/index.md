@@ -25,48 +25,22 @@ Fabienne Jordan-Grossrieder a eu la chance de travailler et collaborer avec Rola
 ## Pratiques
 
 <div class="columns2">
-  <ul>
-    <li>
-      Bilan de santé
-    </li>
-    <li>
-      <a href="/therapies/naturopathie/">Naturopathie</a>
-    </li>
-    <li>
-      <a href="/therapies/hygiene-vitale/">Nutrition – Hygiène de vie</a>
-    </li>
-    <li>
-      <a href="/therapies/phytotherapie/">Phytothérapie</a>
-    </li>
-    <li>
-      <a href="/therapies/aromatherapie/">Aromathérapie</a>
-    </li>
-    <li>
-      <a href="/therapies/spagyrie/">Spagyrie</a>
-    </li>
-    <li>
-      <a href="/therapies/sympathicotherapie/">Sympathicothérapie</a>
-    </li>
-    <li>
-      <a href="/therapies/veinologie/">Veinologie</a>
-    </li>
-    <li>
-      <a href="/therapies/massage-therapeutique/">Massage thérapeutique – vertébrologie</a>
-    </li>
-    <li>
-      <a href="/therapies/massage-ayurvedique/">Massage ayurvédique</a>
-    </li>
-    <li>
-      <a href="/articles/allergie/">Traitement des allergies, méthode NAET</a>
-    </li>
-    <li>
-      <a href="/therapies/reflexologie/">Réflexologie podale</a>
-    </li>
-    <li>
-      <a href="/therapies/drainage/">Drainage lymphatique</a>
-    </li>
-    <li>
-      <a href="/therapies/bioresonnance-mora/">Biorésonnance avec appareil MORA</a>
-    </li>
-  </ul>
+<ul>
+<li><a href="javascript:void(0);"              >Bilan de santé</a></li>
+<li><a href="/therapies/naturopathie/"         >Naturopathie</a></li>
+<li><a href="/therapies/hygiene-vitale/"       >Nutrition – Hygiène de vie</a></li>
+<li><a href="/therapies/phytotherapie/"        >Phytothérapie</a></li>
+<li><a href="/therapies/aromatherapie/"        >Aromathérapie</a></li>
+<li><a href="/therapies/spagyrie/"             >Spagyrie</a></li>
+<li><a href="/therapies/sympathicotherapie/"   >Sympathicothérapie</a></li>
+<li><a href="/therapies/veinologie/"           >Veinologie</a></li>
+<li><a href="/therapies/massage-therapeutique/">Massage thérapeutique – vertébrologie</a></li>
+<li><a href="/therapies/massage-ayurvedique/"  >Massage ayurvédique</a></li>
+<li><a href="/articles/allergie/"              >Traitement des allergies, méthode NAET</a></li>
+<li><a href="/therapies/reflexologie/"         >Réflexologie podale</a></li>
+<li><a href="/therapies/drainage/"             >Drainage lymphatique</a></li>
+<li><a href="/therapies/bioresonnance-mora/"   >Biorésonnance avec appareil MORA</a></li>
+</ul>
 </div>
+
+
