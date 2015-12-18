@@ -13,6 +13,8 @@ infos:
     tel: +41 79 107 54 49
     detail: Agréée par l’ASCA
     url: /therapeutes/martine-bergamin
+thumbnail:
+    desc: Martine Bergamin
 ---
 
 <h2 style="text-align: center; line-height: 2em;">

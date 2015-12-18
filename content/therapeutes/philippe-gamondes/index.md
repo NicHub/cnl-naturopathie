@@ -12,6 +12,8 @@ infos:
     tel: +41 79 943 82 11
     detail: Agréé par l’ASCA
     url: /therapeutes/philippe-gamondes
+thumbnail:
+    desc: Philippe Gamondès
 ---
 
 &nbsp;

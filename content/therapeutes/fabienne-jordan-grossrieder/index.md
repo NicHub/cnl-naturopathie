@@ -12,6 +12,8 @@ infos:
     tel: +41 21 601 35 82
     detail: Agréée par l’ASCA
     url: /therapeutes/fabienne-jordan-grossrieder
+thumbnail:
+    desc: Fabienne Jordan
 ---
 
 **Fabienne Jordan-Grossrieder a le plaisir de vous accueillir sur le site du Centre de Naturopathie Lausanne**

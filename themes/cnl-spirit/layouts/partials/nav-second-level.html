@@ -1,6 +1,6 @@
 <!-- Navigation
 ==========================================-->
-<nav id="ar-menu" class="navbar navbar-default navbar-fixed-top" style="background-color:black">
+<nav id="tf-menu" class="navbar navbar-default navbar-fixed-top" style="background-color:black">
 	<div class="container">
 		<!-- Brand and toggle get grouped for better mobile display -->
 		<div class="navbar-header">
@@ -13,27 +13,25 @@
 		</div>
 
 		<div class="navbar-inner collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-			<ul class="nav pull-left">
-				<li>
-				{{ if .NextInSection }}
-					<a rel="next" href="{{ .NextInSection.Permalink }}" id="next">
-						&larr; <span class="nav-title nav-title-next">{{ .NextInSection.Params.thumbnail.desc }}</span>
-					</a>
-				{{ end }}
-				</li>
-			</ul>
-			<ul class="nav nav-center">
-				<li><a class="page-scroll" href="/">CNL NATUROPATHIE</a></li>
-			</ul>
-			<ul class="nav pull-right">
-				<li>
-				{{ if .PrevInSection }}
-					<a rel="prev" href="{{ .PrevInSection.Permalink }}" id="prev">
-						<span class="nav-title nav-title-prev">{{ .PrevInSection.Params.thumbnail.desc }}</span> &rarr;
-					</a>
-				{{ end }}
-				</li>
-			</ul>
+			<div class="row">
+				<div class="col-xs-12 col-sm-4" style="margin: 10px 0 15px">
+					{{ if .NextInSection }}
+						<a rel="next" href="{{ .NextInSection.Permalink }}" id="next">
+							&larr; <span class="nav-title nav-title-next">{{ .NextInSection.Params.thumbnail.desc }}</span>
+						</a>
+					{{ end }}
+				</div>
+				<div class="col-xs-12 col-sm-4" style="margin: 10px 0 15px">
+					<a class="page-scroll" href="/">CNL NATUROPATHIE</a>
+				</div>
+				<div class="col-xs-12 col-sm-4" style="margin: 10px 0 15px">
+					{{ if .PrevInSection }}
+						<a rel="prev" href="{{ .PrevInSection.Permalink }}" id="prev">
+							<span class="nav-title nav-title-prev">{{ .PrevInSection.Params.thumbnail.desc }}</span> &rarr;
+						</a>
+					{{ end }}
+				</div>
+			</div>
 		</div>
 	</div>
 </nav>
