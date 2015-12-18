@@ -617,7 +617,20 @@ nav#footer p{
 
 
 /* navarticles */
-nav#navarticles {
+.navbar .nav,
+.navbar .nav > li {
+  float:none;
+  display:inline-block;
+  *display:inline; /* ie7 fix */
+  *zoom:1; /* hasLayout ie7 trigger */
+  vertical-align: top;
+}
+
+.navbar-inner {
+  text-align:center;
+}
+
+#navarticles {
 	background-color: #222;
 }
 #navarticles.navbar-default .navbar-nav > li > a {
@@ -732,4 +745,48 @@ img.aligncenter {
 		page-break-inside: avoid;
 	}
 
+}
+
+.toto {
+	color: #FCAC45;
+	font-weight: bold;
+	font-style: italic;
+}
+
+
+#ar-menu {
+	text-transform: uppercase;
+}
+
+#ar-menu .container {
+    margin-top: 10px;
+}
+
+#ar-menu .nav.nav-center {
+    display: inline-block;
+    left: 0;
+    right: 0;
+    margin:0;
+    float:none;
+}
+
+#ar-menu .navbar-inner {
+    text-align:center;
+}
+
+#ar-menu a:hover {
+	background-color: inherit;
+	color: white;
+}
+
+@media (min-width: 768px) {
+    #ar-menu .navbar .navbar-nav {
+        display: inline-block;
+        float: none;
+        vertical-align: top;
+    }
+
+    #ar-menu .navbar .navbar-collapse {
+        text-align: center;
+    }
 }

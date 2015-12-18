@@ -19,7 +19,7 @@ Le Dr Denis Riché, auteur de plusieurs livres et de recherches sur le sport, d�
 
 L’alimentation permettra de rééquilibrer les fonctions physiologiques. À noter que les intestins sont souvent le maillon faible du sportif. De récents travaux suggèrent que le sport d’endurance, même effectué à une intensité modérée peut accroître le catabolisme protéique. Un apport de 2 g d’acides aminés branchés (valine, leucine, isoleucine) supprime cet effet. Si un apport de glucides se fait simultanément, ces acides aminés seront mieux épargnés.
 
-## Conseils diététiques :
+## Conseils diététiques
 
   * Entraînement : 500 ml/h de boisson glucidique avec des acides aminés branchés. Ces boissons évitent également la déshydratation, l’hypoglycémie et les crampes.
   * En pré-compétition : J-3 au dernier repas, l’idéal est l’apport de produits céréaliers non complets « sans résidus » ou pomme de terre. Dernier repas « sans résidus » minimum 3 h avant l’épreuve.
@@ -29,7 +29,7 @@ L’alimentation permettra de rééquilibrer les fonctions physiologiques. À no
 
 &nbsp;
 
-## Complément indispensable au sportif au quotidien.
+## Complément indispensable au sportif au quotidien
 
 Pour plusieurs de ces besoins, il existe des complexes dans différentes marques qui sont très bien conçus.
 

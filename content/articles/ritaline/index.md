@@ -3,7 +3,7 @@ title: Hyperactivité – déficit d’attention
 author: nico
 date: 2013-12-14
 thumbnail:
-    desc: Hyperactivité – déficit d’attention
+    desc: L’hyperactivité
     image: feature.jpg
 ---
 

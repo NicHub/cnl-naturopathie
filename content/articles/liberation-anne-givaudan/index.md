@@ -3,7 +3,7 @@ title: Libération — Anne Givaudan
 author: nico
 date: 2013-12-14
 thumbnail:
-    desc: Libération — Anne Givaudan
+    desc: Libération
     image: feature.jpg
 ---
 

@@ -2,7 +2,7 @@
 title: Le lait en question
 date: 2013-12-14
 thumbnail:
-    desc: Le lait en question
+    desc: Le lait
     image: feature.jpg
 ---
 

@@ -39,45 +39,33 @@ Ces quelques conseils vous sembleront certainement logiques, mais nous n’avons
 
 _1 cs le matin_
 
-_**OU**_
-
-**Préparation magistrale en Spagyrie Phylak : PS139.0 100ml**
-
-_10 gouttes 1 à 2×/j_
+<span class="toto">OU</span> **Préparation magistrale en Spagyrie Phylak : PS139.0 100ml**
 
 Podophyllum, FREQuENCE 20 %, Datura, Nuphar, Dulcamara, Coffea, Vinca, Rhus tox, Melilotus, Viscum, Quercus.
 
-_**OU**_
+_10 gouttes 1 à 2×/j_
 
-**C.I.P Défenses naturelles, Dietaroma**
+<span class="toto">OU</span> **C.I.P Défenses naturelles, Dietaroma**
 
 _1 ampoule 1 j sur 2_
 
 ***
 
-_**+**_
-
-**Oméga 3 EPA/DHA ou Huile de foie de morue (+Vit D)**
+<span class="toto">+</span> **Oméga 3 EPA/DHA ou Huile de foie de morue (+Vit D)**
 
 _1 comp/j_
 
-_**+**_
-
-**Probiotique – Maxiflore (Synergia)**
+<span class="toto">+</span> **Probiotique – Maxiflore (Synergia)**
 
 _1 gél. 2×/sem_
 
-_**OU**_
-
-**Serum de Quinton isotonique**
+<span class="toto">OU</span> **Serum de Quinton isotonique**
 
 _1 ampoule 1 jour sur 2_
 
 ***
 
-_**+**_
-
-**Fumigations** avec la synergie **108** (Lakshmi-Usha Veda)
+<span class="toto">+</span> **Fumigations** avec la synergie **108** (Lakshmi-Usha Veda)
 
 _8 gouttes dans un bol d'eau chaude_
 
