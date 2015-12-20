@@ -9,7 +9,7 @@ infos:
     specialites: [
         Nutritionniste,
         Médecine chinoise ]
-    tel: +41 79 943 82 11
+    tel: <i class="fa fa-mobile"></i> +41 79 943 82 11
     detail: Agréé par l’ASCA
     url: /therapeutes/philippe-gamondes
 thumbnail:

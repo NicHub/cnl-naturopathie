@@ -18,8 +18,8 @@
 									<b>{{ .  | safeHTML }}</b><br/>
 							{{ end }}
 							</p>
-							<p><b>T {{ .Params.infos.tel }}</b></p>
-							<p><b>ॐ</b></p>
+							<p><b>{{ .Params.infos.tel | safeHTML }}</b></p>
+							<p><b><i class="fa fa-angle-double-up"></i></b></p>
 						</div>
 						{{ end }}
 						{{ end }}

@@ -9,7 +9,7 @@ infos:
     specialites: [
         Naturopathe,
         Nutritionniste ]
-    tel: +41 21 601 35 82
+    tel: <i class="fa fa-phone"></i> +41 21 601 35 82
     detail: Agréée par l’ASCA
     url: /therapeutes/fabienne-jordan-grossrieder
 thumbnail:

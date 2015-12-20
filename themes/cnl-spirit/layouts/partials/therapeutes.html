@@ -23,10 +23,10 @@
 					<div class="caption">
 						<h3>{{ .Params.infos.prenom }}<br/>{{ .Params.infos.nom }}</h3>
 						{{ range .Params.infos.specialites }}
-							<p>{{ .  | safeHTML }}</p>
+							<p>{{ . | safeHTML }}</p>
 						{{ end }}
 						<p><small><em>{{ .Params.infos.detail }}</em></small></p>
-						<p>T {{ .Params.infos.tel }}</p>
+						<p>{{ .Params.infos.tel | safeHTML }}</p>
 					</div>
 				</a>
 			</div>

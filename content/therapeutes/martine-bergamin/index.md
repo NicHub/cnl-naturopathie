@@ -10,7 +10,7 @@ infos:
     specialites: [
         Thérapie de l’Âme,
         Transmission<br/>des paroles<br/>de l’Ange ]
-    tel: +41 79 107 54 49
+    tel: <i class="fa fa-mobile"></i> +41 79 107 54 49
     detail: Agréée par l’ASCA
     url: /therapeutes/martine-bergamin
 thumbnail:
