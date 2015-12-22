@@ -1,13 +1,14 @@
 ---
 title: Prévention pour l’hiver
 author: nico
-date: 2013-12-14
+date: 2015-12-22
+weight: 2
 thumbnail:
     desc: Prévention pour l’hiver
     image: feature.jpg
 ---
 
-***Fabienne Jordan-Grossrieder, Naturopathe – Nutritionniste***
+**_Fabienne Jordan-Grossrieder, Naturopathe – Nutritionniste_**
 
 ## Rester en pleine forme<br/>toute la saison froide
 

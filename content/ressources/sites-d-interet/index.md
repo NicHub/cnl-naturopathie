@@ -2,6 +2,10 @@
 title: Sites d’intérêt
 author: nico
 date: 2013-12-14
+weight: 1
+thumbnail:
+    desc: Sites d’intérêt
+    image: feature.jpg
 ---
 
 ## Nouveaux liens
