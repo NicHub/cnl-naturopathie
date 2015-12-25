@@ -11,7 +11,8 @@
 
 	<div class="space"></div>
 
-<!-- 	<div class="categories">
+<!--
+	<div class="categories">
 		<ul class="cat">
 			<li class="pull-left"><h4> </h4></li>
 			<li class="pull-right">
@@ -28,14 +29,15 @@
 		</ul>
 		<div class="clearfix"></div>
 	</div>
- -->
-	<div class="space"></div>
 
-	<div id="lightbox_1" class="row row-centered">
+	<div class="space"></div>
+ -->
+
+	<div id="lightbox_1" class="row">
 	{{ range .Data.Pages }}
 	{{ if eq .Type "therapies" }}
 	{{ $currentCategoryUrl := .Params.thumbnail.image | printf "%simages/%s" .Permalink }}
-		<div class="col-md-3 col-centered branding  {{ .Params.thumbnail.therapeute }}">
+		<div class="col-xs-6 col-sm-4 col-md-3 branding {{ .Params.thumbnail.therapeute }}">
 			<div class="portfolio-item">
 				<div class="hover-bg">
 					<a href="{{ .Permalink }}">

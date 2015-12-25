@@ -11,11 +11,11 @@
 
 	<div class="space"></div>
 
-	<div id="lightbox_2" class="row row-centered">
+	<div id="lightbox_2" class="row">
 	{{ range .Data.Pages }}
 	{{ if eq .Type "articles" }}
 		{{ $currentCategoryUrl := .Params.thumbnail.image | printf "%simages/%s" .Permalink }}
-		<div class="col-sm-3 col-centered branding">
+		<div class="col-xs-6 col-sm-4 col-md-3 branding">
 			<div class="portfolio-item">
 				<div class="hover-bg">
 					<a href="{{ .Permalink }}">

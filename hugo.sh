@@ -46,16 +46,19 @@ s3)
 fenix)
     OUT_PATH="$HOME/Sites/cnl-naturopathie/cnl-spirit-github/"
     hugo                                        \
-        --baseURL="http://192.168.1.116:8080/" \
+        --baseURL="http://192.168.1.116:8080/"  \
         --theme cnl-spirit                      \
         --destination=$OUT_PATH
     ;;
 
 *)
-    hugo server                  \
-        --watch                  \
-        --theme cnl-spirit       \
-        --destination=$OUT_PATH
+    IP=192.168.1.116
+    hugo server                 \
+        --baseURL="http://$IP/" \
+        --bind=$IP              \
+        --port=8080             \
+        --appendPort=true       \
+        --theme cnl-spirit
     ;;
 
 esac

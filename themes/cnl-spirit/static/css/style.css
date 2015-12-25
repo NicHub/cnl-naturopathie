@@ -126,6 +126,12 @@ font-weight: 900;
 	color: #777;
 }
 
+@media( max-width: 1536px ) {
+	#tf-home{
+		background-attachment: scroll;
+	}
+}
+
 #tf-home .overlay{
 	background: -moz-linear-gradient(top,  rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.73) 17%, rgba(0,0,0,0.66) 35%, rgba(0,0,0,0.55) 62%, rgba(0,0,0,0.4) 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0.8)), color-stop(17%,rgba(0,0,0,0.73)), color-stop(35%,rgba(0,0,0,0.66)), color-stop(62%,rgba(0,0,0,0.55)), color-stop(100%,rgba(0,0,0,0.4))); /* Chrome,Safari4+ */
@@ -471,7 +477,7 @@ ol.type li a.active { font-weight: 700; }
 	color: #fcac45;
 	text-align: center;
 	height: 80px;
-	padding: 0px 10px;
+	padding: 0px;
 }
 .hover-bg:hover .non-hover-text{
 
@@ -799,8 +805,6 @@ img.aligncenter {
 .col-centered {
     display:inline-block;
     float:none;
-    /* reset the text-align */
-    text-align:left;
-    /* inline-block space fix */
-    margin-right:-4px;
+     text-align:left;
+     margin-right:-4px;
 }
