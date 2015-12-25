@@ -33,13 +33,13 @@ Il existe deux procédures principales de préparations des dynamisations : les
 
 ## Les équivalences thérapeutiques les plus souvent admises
 
-<table class="equiv_therap" style="width: 100%;margin:50px 0">
+<table class="equiv_therap" style="width: 100%;margin:50px 0; text-align:center">
 <thead>
 <tr>
-<th>dilution</th>
-<th>dilution D</th>
-<th>dilution CH</th>
-<th>dilution K</th>
+<th style="text-align:center">dilution</th>
+<th style="text-align:center">dilution D</th>
+<th style="text-align:center">dilution CH</th>
+<th style="text-align:center">dilution K</th>
 </tr>
 </thead>
 <tbody class="striped">
