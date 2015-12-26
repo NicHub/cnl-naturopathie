@@ -131,42 +131,27 @@ font-weight: 900;
 		background-attachment: scroll;
 	}
 }
-
 #tf-home .overlay{
-	background: -moz-linear-gradient(top,  rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.73) 17%, rgba(0,0,0,0.66) 35%, rgba(0,0,0,0.55) 62%, rgba(0,0,0,0.4) 100%); /* FF3.6+ */
-	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0.8)), color-stop(17%,rgba(0,0,0,0.73)), color-stop(35%,rgba(0,0,0,0.66)), color-stop(62%,rgba(0,0,0,0.55)), color-stop(100%,rgba(0,0,0,0.4))); /* Chrome,Safari4+ */
-	background: -webkit-linear-gradient(top,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.73) 17%,rgba(0,0,0,0.66) 35%,rgba(0,0,0,0.55) 62%,rgba(0,0,0,0.4) 100%); /* Chrome10+,Safari5.1+ */
-	background: -o-linear-gradient(top,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.73) 17%,rgba(0,0,0,0.66) 35%,rgba(0,0,0,0.55) 62%,rgba(0,0,0,0.4) 100%); /* Opera 11.10+ */
-	background: -ms-linear-gradient(top,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.73) 17%,rgba(0,0,0,0.66) 35%,rgba(0,0,0,0.55) 62%,rgba(0,0,0,0.4) 100%); /* IE10+ */
-	background: linear-gradient(to bottom,  rgba(0,0,0,0.8) 0%,rgba(0,0,0,0.73) 17%,rgba(0,0,0,0.66) 35%,rgba(0,0,0,0.55) 62%,rgba(0,0,0,0.4) 100%); /* W3C */
-	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#cc000000', endColorstr='#66000000',GradientType=0 ); /* IE6-9 */
-	height: 750px;
-	background-attachment: fixed;
-}
-#tf-home .overlay2{
 	max-width: 750px;
 	margin-left: auto;
 	margin-right: auto;
 
-
-		-webkit-box-shadow: 10px 10px 10px rgba( 120, 120, 120, 0.2 );
-		-moz-box-shadow:    10px 10px 10px rgba( 120, 120, 120, 0.2 );
-		box-shadow:         10px 10px 10px rgba( 120, 120, 120, 0.2 );
-		border: 1px solid rgba(177,190,201,1);
+	-webkit-box-shadow: 10px 10px 10px rgba( 120, 120, 120, 0.2 );
+	-moz-box-shadow:    10px 10px 10px rgba( 120, 120, 120, 0.2 );
+	box-shadow:         10px 10px 10px rgba( 120, 120, 120, 0.2 );
+	border: 1px solid rgba(177,190,201,1);
 	border-radius: 10px;
 	padding: 10px;
 
-/*http://www.cssmatic.com/gradient-generator#'\-moz\-linear\-gradient\%28\-45deg\%2C\%20rgba\%28177\%2C190\%2C201\%2C0\.32\%29\%200\%25\%2C\%20rgba\%28252\%2C253\%2C253\%2C0\.5\%29\%20100\%25\%29\%3B'*/
-background: rgba(177,190,201,0.32);
-background: -moz-linear-gradient(-45deg, rgba(177,190,201,0.32) 0%, rgba(252,253,253,0.5) 100%);
-background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(177,190,201,0.32)), color-stop(100%, rgba(252,253,253,0.5)));
-background: -webkit-linear-gradient(-45deg, rgba(177,190,201,0.32) 0%, rgba(252,253,253,0.5) 100%);
-background: -o-linear-gradient(-45deg, rgba(177,190,201,0.32) 0%, rgba(252,253,253,0.5) 100%);
-background: -ms-linear-gradient(-45deg, rgba(177,190,201,0.32) 0%, rgba(252,253,253,0.5) 100%);
-background: linear-gradient(135deg, rgba(177,190,201,0.32) 0%, rgba(252,253,253,0.5) 100%);
-filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b1bec9', endColorstr='#fcfdfd', GradientType=1 );
-
-
+	/*http://www.cssmatic.com/gradient-generator#'\-moz\-linear\-gradient\%28\-45deg\%2C\%20rgba\%28177\%2C190\%2C201\%2C0\.32\%29\%200\%25\%2C\%20rgba\%28252\%2C253\%2C253\%2C0\.5\%29\%20100\%25\%29\%3B'*/
+	background: rgba(177,190,201,0.32);
+	background: -moz-linear-gradient(-45deg, rgba(177,190,201,0.32) 0%, rgba(252,253,253,0.5) 100%);
+	background: -webkit-gradient(left top, right bottom, color-stop(0%, rgba(177,190,201,0.32)), color-stop(100%, rgba(252,253,253,0.5)));
+	background: -webkit-linear-gradient(-45deg, rgba(177,190,201,0.32) 0%, rgba(252,253,253,0.5) 100%);
+	background: -o-linear-gradient(-45deg, rgba(177,190,201,0.32) 0%, rgba(252,253,253,0.5) 100%);
+	background: -ms-linear-gradient(-45deg, rgba(177,190,201,0.32) 0%, rgba(252,253,253,0.5) 100%);
+	background: linear-gradient(135deg, rgba(177,190,201,0.32) 0%, rgba(252,253,253,0.5) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b1bec9', endColorstr='#fcfdfd', GradientType=1 );
 }
 
 #tf-home p.lead{
@@ -220,6 +205,11 @@ ul.about-list li span{
 	background-attachment: fixed;
 	background-repeat: no-repeat;
 	color: #ffffff;
+}
+@media( max-width: 1536px ) {
+	#tf-team{
+		background-attachment: scroll;
+	}
 }
 #tf-team .overlay{
 	background: -moz-linear-gradient(top,  rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.73) 17%, rgba(0,0,0,0.66) 35%, rgba(0,0,0,0.55) 62%, rgba(0,0,0,0.4) 100%); /* FF3.6+ */
@@ -352,7 +342,11 @@ img.img-circle.team-img {
 	background-repeat: no-repeat;
 	color: #ffffff;
 }
-
+@media( max-width: 1536px ) {
+	#tf-clients{
+		background-attachment: scroll;
+	}
+}
 #tf-clients .overlay{
 	background: -moz-linear-gradient(top,  rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.73) 17%, rgba(0,0,0,0.66) 35%, rgba(0,0,0,0.55) 62%, rgba(0,0,0,0.4) 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0.8)), color-stop(17%,rgba(0,0,0,0.73)), color-stop(35%,rgba(0,0,0,0.66)), color-stop(62%,rgba(0,0,0,0.55)), color-stop(100%,rgba(0,0,0,0.4))); /* Chrome,Safari4+ */
@@ -499,7 +493,11 @@ ol.type li a.active { font-weight: 700; }
 	background-repeat: no-repeat;
 	color: #ffffff;
 }
-
+@media( max-width: 1536px ) {
+	#tf-testimonials{
+		background-attachment: scroll;
+	}
+}
 #tf-testimonials .overlay{
 	background: -moz-linear-gradient(top,  rgba(0,0,0,0.8) 0%, rgba(0,0,0,0.73) 17%, rgba(0,0,0,0.66) 35%, rgba(0,0,0,0.55) 62%, rgba(0,0,0,0.4) 100%); /* FF3.6+ */
 	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,0,0,0.8)), color-stop(17%,rgba(0,0,0,0.73)), color-stop(35%,rgba(0,0,0,0.66)), color-stop(62%,rgba(0,0,0,0.55)), color-stop(100%,rgba(0,0,0,0.4))); /* Chrome,Safari4+ */
