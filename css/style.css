@@ -444,7 +444,6 @@ ol.type li a.active { font-weight: 700; }
 	width: 100%;
 	opacity: 0;
     transition: all 0.5s;
-    max-width: 300px;
 }
 .hover-bg .hover-text>h4{
 	opacity: 0;
@@ -479,7 +478,9 @@ ol.type li a.active { font-weight: 700; }
 	text-align: center;
 	height: 80px;
 	padding: 0px;
-	max-width: 300px;
+}
+.hover-bg:hover .non-hover-text{
+
 }
 #tf-works i.fa {
 	height: 30px;

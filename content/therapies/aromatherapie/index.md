@@ -1,5 +1,5 @@
 ---
-title: L’aromathérapie
+title: L’aroma&shy;thérapie
 date: 2015-11-30
 thumbnail:
     desc: Aromathérapie

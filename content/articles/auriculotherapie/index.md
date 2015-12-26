@@ -3,7 +3,7 @@ title: Auriculothérapie
 author: nico
 date: 2013-12-14
 thumbnail:
-    desc: Auriculothérapie
+    desc: Auriculo&shy;thérapie
     image: feature.jpg
 ---
 

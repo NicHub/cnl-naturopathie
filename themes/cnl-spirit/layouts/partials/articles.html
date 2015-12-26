@@ -20,12 +20,12 @@
 				<div class="hover-bg">
 					<a href="{{ .Permalink }}">
 						<div class="non-hover-text">
-							<h4><br/>{{ .Params.thumbnail.desc }}<br/></h4>
+							<h4><br/>{{ .Params.thumbnail.desc | safeHTML }}<br/></h4>
 							<small> </small>
 						</div>
 
 						<div class="hover-text">
-							<h4>{{ .Params.thumbnail.desc }}</h4>
+							<h4>{{ .Params.thumbnail.desc | safeHTML }}</h4>
 							<small> </small>
 							<div class="clearfix"></div>
 							<i class="fa fa-plus"></i>

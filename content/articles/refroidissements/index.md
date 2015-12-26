@@ -3,7 +3,7 @@ title: Les refroidissements
 author: nico
 date: 2013-12-14
 thumbnail:
-    desc: Les refroidissements
+    desc: Les refroidis&shy;sements
     image: feature.jpg
 ---
 

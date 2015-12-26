@@ -1,5 +1,5 @@
 ---
-title: Le massage ayurvédique
+title: Le massage ayur&shy;védique
 date: 2015-12-07
 thumbnail:
     desc: Massage ayurvédique

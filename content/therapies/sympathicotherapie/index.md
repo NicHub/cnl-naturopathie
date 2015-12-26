@@ -2,7 +2,7 @@
 title: La sympathicothérapie
 date: 2015-12-14
 thumbnail:
-    desc: Sympathicothérapie
+    desc: Sympathico&shy;thérapie
     image: feature.jpg
     therapeute: Fabienne
 ---
