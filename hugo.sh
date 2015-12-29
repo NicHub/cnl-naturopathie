@@ -3,12 +3,12 @@
 case "$1" in
 
 github)
-    OUT_PATH="$HOME/Sites/cnl-naturopathie/cnl-spirit-github/"
+    OUT_PATH="$HOME/Sites/cnl-naturopathie/site-web-v4/"
     # rm -rf $OUT_PATH # !! Ne pas effacer le répertoire .git !!
     echo "Génération des fichiers GitHub"
     hugo                                                                \
         --destination=$OUT_PATH                                         \
-        --baseURL="http://nichub.github.io/cnl-spirit/"
+        --baseURL="http://cnl-naturopathie.ch/"
     cp README.md $OUT_PATH
     cd $OUT_PATH
     if [ -z "$2" ]

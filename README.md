@@ -1,7 +1,4 @@
+# site-web-v4
 
-# cnl-spirit
+<http://cnl-naturopathie.ch>
 
-
-<http://nichub.github.io/cnl-spirit/>
-
-ॐ

@@ -1,0 +1,48 @@
+
+# ANGES.CH
+
+; Domain: anges.ch
+; Exported (y-m-d hh:mm:ss): 2015-12-28 22:08:17
+; Actual version
+
+$TTL 86400
+@        IN SOA  ns5.infomaniak.ch. hostmaster.infomaniak.ch. (2015011603 10800 3600 605800 86400)
+    3600 IN A    192.30.252.153
+    3600 IN A    192.30.252.154
+    3600 IN NS   ns5.infomaniak.ch.
+    3600 IN NS   ns6.infomaniak.ch.
+www 3600 IN A    93.88.246.161
+www 3600 IN AAAA 2001:1600:2:c::117
+www 3600 IN TXT  "1|anges.ch"
+
+
+
+
+# CNL-NATUROPATHIE.CH (AVANT MODIF)
+
+; Domain: cnl-naturopathie.ch
+; Exported (y-m-d hh:mm:ss): 2015-12-28 22:31:39
+; Actual version
+
+$TTL
+@        IN      . . (0 0 0 0 0)
+    3600 IN A    84.16.80.132
+    3600 IN MX 5 mta-gw.infomaniak.ch.
+    3600 IN NS   ns1.hostpapa.com.
+    3600 IN NS   ns2.hostpapa.com.
+    3600 IN TXT  "v=spf1 include:spf.infomaniak.ch ?all"
+www 3600 IN A    84.16.80.132
+
+
+
+# CNL-NATUROPATHIE.CH (APRÈS MODIF)
+
+$TTL 86400
+@        IN SOA  ns5.infomaniak.ch. hostmaster.infomaniak.ch. (2015011603 10800 3600 605800 86400)
+    3600 IN A    192.30.252.153
+    3600 IN A    192.30.252.154
+    3600 IN NS   ns5.infomaniak.ch.
+    3600 IN NS   ns6.infomaniak.ch.
+www 3600 IN A    93.88.246.161
+www 3600 IN AAAA 2001:1600:2:c::117
+www 3600 IN TXT  "1|cnl-naturopathie.ch"
